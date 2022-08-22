@@ -1199,6 +1199,7 @@ code,first_name,second_name,web_name,transfermarkt
 200826,Giovani,Lo Celso,Lo Celso,348795
 200878,Filip,Krovinovic,Krovinovic,261988
 200884,Tyrese,Campbell,Campbell,382554
+201057,Thilo,Kehrer,Kehrer,228948
 201084,Timothy,Fosu-Mensah,Fosu-Mensah,315131
 201595,Lucas,Perri,Perri,352041
 201658,Marcus,Tavernier,Tavernier,399434
@@ -1210,6 +1211,7 @@ code,first_name,second_name,web_name,transfermarkt
 203341,Wilfred,Ndidi,Ndidi,274839
 203368,Frédéric,Guilbert,Guilbert,354352
 203389,Nathan,Tella,Tella,340322
+204214,Pervis,Estupiñán,Estupiñán,349599
 204216,Keshi,Anderson,Anderson,353674
 204380,Juninho,Bacuna,Bacuna,348863
 204454,Isaac,Mbenza,Mbenza,260806
@@ -1514,6 +1516,7 @@ code,first_name,second_name,web_name,transfermarkt
 246878,Abdelhamid,Sabiri,Sabiri,340394
 247286,Kyle,Jameson,Jameson,494684
 247632,Pedro,Lomba Neto,Neto,487465
+247664,Terry,Ablade,Ablade	,434015
 248164,Viljami,Sinisalo,Sinisalo,484838
 248853,Dynel,Simeu,Simeu,503976
 248865,Armstrong,Oko-Flex,Oko-Flex,531461
@@ -1559,6 +1562,7 @@ code,first_name,second_name,web_name,transfermarkt
 434138,Jordan,Stevens,Stevens,533913
 434662,Halil,Dervişoğlu,Dervişoğlu,465606
 436234,Bryan,Gil Salvatierra,Bryan,537382
+437468,Sergio,Gómez,Sergio Gómez,366930
 437476,Braian,Ojeda Rodríguez,Ojeda,491596
 437495,Illan,Meslier,Meslier,542586
 437626,Nuno,Varela Tavares,Tavares,535955
@@ -1689,6 +1693,7 @@ code,first_name,second_name,web_name,transfermarkt
 463981,James,Hill,Hill,611793
 464618,Liam,McCarron,McCarron,614082
 465299,Anthony,Mancini,Mancini,677311
+465351,Matheus Luiz,Nunes,Matheus,601883
 465390,Kaine,Hayden,Hayden,626888
 465527,Hannibal,Mejbri,Mejbri,607224
 465551,Nigel,Lonwijk,Lonwijk,566043
@@ -1733,6 +1738,7 @@ code,first_name,second_name,web_name,transfermarkt
 486672,Moisés,Caicedo Corozo,Caicedo,687626
 486870,Frederik,Alves,Alves,542690
 487117,Evan,Ferguson,Ferguson,648046
+487818,Joseph,Whitworth,Whitworth,670840
 487835,Benjamin,Chrisene,Chrisene,670846
 487836,Antwoine,Hackford,Hackford,670859
 487838,Lewis,Hall,Hall,670858
@@ -1751,6 +1757,7 @@ code,first_name,second_name,web_name,transfermarkt
 491556,Charlie,Whitaker,Whitaker,726992
 491559,Isaac,Price,Price,612749
 491785,Harvey,Vale,Vale,581675
+491970,Bobby,Clark,Clark,712117
 492066,Niall,Huggins,Huggins,559801
 492373,Charlie,Cresswell,Cresswell,597659
 492374,Jack,Jenkins,Jenkins,734375

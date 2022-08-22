@@ -1199,6 +1199,7 @@ code,first_name,second_name,web_name,understat
 200826,Giovani,Lo Celso,Lo Celso,5681
 200878,Filip,Krovinovic,Krovinovic,8966
 200884,Tyrese,Campbell,Campbell,6561
+201057,Thilo,Kehrer,Kehrer,2674
 201084,Timothy,Fosu-Mensah,Fosu-Mensah,549
 201595,Lucas,Perri,Perri,
 201658,Marcus,Tavernier,Tavernier,10741
@@ -1210,6 +1211,7 @@ code,first_name,second_name,web_name,understat
 203341,Wilfred,Ndidi,Ndidi,5545
 203368,Frédéric,Guilbert,Guilbert,3253
 203389,Nathan,Tella,Tella,8456
+204214,Pervis,Estupiñán,Estupiñán,5136
 204216,Keshi,Anderson,Anderson,
 204380,Juninho,Bacuna,Bacuna,7219
 204454,Isaac,Mbenza,Mbenza,5662
@@ -1514,6 +1516,7 @@ code,first_name,second_name,web_name,understat
 246878,Abdelhamid,Sabiri,Sabiri,6296
 247286,Kyle,Jameson,Jameson,
 247632,Pedro,Lomba Neto,Neto,6382
+247664,Terry,Ablade,Ablade,
 248164,Viljami,Sinisalo,Sinisalo,
 248853,Dynel,Simeu,Simeu,
 248865,Armstrong,Oko-Flex,Oko-Flex,
@@ -1559,6 +1562,7 @@ code,first_name,second_name,web_name,understat
 434138,Jordan,Stevens,Stevens,
 434662,Halil,Dervişoğlu,Dervişoğlu,
 436234,Bryan,Gil Salvatierra,Bryan,7338
+437468,Sergio,Gómez,Sergio Gómez,6656
 437476,Braian,Ojeda Rodríguez,Ojeda,
 437495,Illan,Meslier,Meslier,8715
 437626,Nuno,Varela Tavares,Tavares,9691
@@ -1689,6 +1693,7 @@ code,first_name,second_name,web_name,understat
 463981,James,Hill,Hill,
 464618,Liam,McCarron,McCarron,9933
 465299,Anthony,Mancini,Mancini,
+465351,Matheus Luiz,Nunes,Matheus,11000
 465390,Kaine,Hayden,Hayden,
 465527,Hannibal,Mejbri,Mejbri,9558
 465551,Nigel,Lonwijk,Lonwijk,
@@ -1733,6 +1738,7 @@ code,first_name,second_name,web_name,understat
 486672,Moisés,Caicedo Corozo,Caicedo,9453
 486870,Frederik,Alves,Alves,
 487117,Evan,Ferguson,Ferguson,10177
+487818,Joseph,Whitworth,Whitworth,
 487835,Benjamin,Chrisene,Chrisene,
 487836,Antwoine,Hackford,Hackford,9222
 487838,Lewis,Hall,Hall,
@@ -1751,6 +1757,7 @@ code,first_name,second_name,web_name,understat
 491556,Charlie,Whitaker,Whitaker,
 491559,Isaac,Price,Price,
 491785,Harvey,Vale,Vale,
+491970,Bobby,Clark,Clark,
 492066,Niall,Huggins,Huggins,9219
 492373,Charlie,Cresswell,Cresswell,9220
 492374,Jack,Jenkins,Jenkins,
