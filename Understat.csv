@@ -843,7 +843,7 @@ code,first_name,second_name,web_name,understat
 132015,Pierre-Emile,Højbjerg,Højbjerg,343
 133798,Serge,Gnabry,Gnabry,993
 133801,Jerome,Sinclair,Sinclair,972
-133845,Emiliano,Marcondes,Marcondes,
+133845,Emiliano,Marcondes,Marcondes,10745
 134383,Connor,Randall,Randall,474
 135363,Andreas,Christensen,Christensen,200
 135365,Jeremie,Boga,Boga,3544
@@ -1448,7 +1448,7 @@ code,first_name,second_name,web_name,understat
 232797,Kayne,Ramsay,Ramsay,7326
 232826,Anthony,Gordon,Gordon,8150
 232829,Kyle,John,John,
-232859,Djed,Spence,Spence,
+232859,Djed,Spence,Spence,10764
 232881,Thakgalo,Leshabela,Leshabela,9311
 232917,Arijanet,Muric,Muric,
 232928,James,Garner,Garner,7438
@@ -1492,7 +1492,7 @@ code,first_name,second_name,web_name,understat
 242898,Brennan,Johnson,Johnson,10760
 243016,Alexis,Mac Allister,Mac Allister,8379
 243343,Jake,Cain,Cain,
-243345,Lewis,O'Brien,O'Brien,
+243345,Lewis,O'Brien,O'Brien,10759
 243505,Jakub,Moder,Moder,9284
 243531,Andrew,Eleftheriou,Eleftheriou,5548
 243532,Dion,Pereira,Pereira,5559
@@ -1712,7 +1712,7 @@ code,first_name,second_name,web_name,understat
 467169,Antony Matheus,dos Santos,Antony,
 467311,Matthew,Pollock,Pollock,
 468243,Kamil,Conteh,Conteh,
-469142,Jan Paul,van Hecke,Van Hecke,
+469142,Jan Paul,van Hecke,Van Hecke,10807
 469249,Nohan,Kenneh,Kenneh,
 470255,Caleb,Taylor,Taylor,
 470294,Darko,Gyabi,Gyabi,
@@ -1766,7 +1766,7 @@ code,first_name,second_name,web_name,understat
 491556,Charlie,Whitaker,Whitaker,
 491559,Isaac,Price,Price,9470
 491785,Harvey,Vale,Vale,
-491970,Bobby,Clark,Clark,
+491970,Bobby,Clark,Clark,10997
 492066,Niall,Huggins,Huggins,9219
 492373,Charlie,Cresswell,Cresswell,9220
 492374,Jack,Jenkins,Jenkins,
@@ -1809,7 +1809,7 @@ code,first_name,second_name,web_name,understat
 532135,Killian,Phillips,Phillips,
 533719,Adrian,Blake,Blake,
 535339,Tiago,Çukur,Çukur,
-535928,Stefan,Bajcetic,Bajcetic,
+535928,Stefan,Bajcetic,Bajcetic,10723
 536110,Josh,Feeney,Feeney,
 537043,Kaine,Kesler Hayden,Kesler Hayden,
 538207,William,Osula,Osula,
