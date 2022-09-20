@@ -37,7 +37,7 @@ code,first_name,second_name,web_name,fbref
 11829,Wayne,Routledge,Routledge,1d387eee
 11854,Daryl,Murphy,Murphy,ac99973f
 11948,Andy,Lonergan,Lonergan,165cf989
-11974,Eldin,Jakupovic,Jakupovic,1148323a
+11974,Eldin,Jakupovic,Jakupović,1148323a
 12002,Stewart,Downing,Downing,b13c4620
 12086,Boaz,Myhill,Myhill,7ca2d989
 12150,Glenn,Whelan,Whelan,d5bd56a5
@@ -88,7 +88,7 @@ code,first_name,second_name,web_name,fbref
 18155,Mathieu,Flamini,Flamini,148d4105
 18440,Leon,Clarke,Clarke,91c975a0
 18499,Michael,McGovern,McGovern,51a19d04
-18507,Diego,Da Silva Costa,Costa,a190d597
+18507,Diego,Da Silva Costa,Diego Costa,a190d597
 18656,Heurelho da Silva,Gomes,Gomes,d596e193
 18665,Alexander,Tettey,Tettey,75566759
 18726,Artur,Boruc,Boruc,34ccf6fa
@@ -1732,6 +1732,7 @@ code,first_name,second_name,web_name,fbref
 474907,Reece,Welch,Welch,a182122b
 475168,João Pedro,Junqueira de Jesus,João Pedro,e8832875
 475492,Oliver,Hammond,Hammond,3766178e
+476502,Boubacar,Traoré,Traoré,999ceb5f
 476888,Sékou,Mara,Mara,3544641e
 477064,Rico,Lewis,Lewis,b57e066e
 477386,Armel,Bella-Kotchap,Bella-Kotchap,a39d11bc
@@ -1789,6 +1790,7 @@ code,first_name,second_name,web_name,fbref
 496661,Tyler,Dibling,Dibling,bdcc89ae
 497605,Liam,Gibbs,Gibbs,e4b6d914
 498046,Salah-Eddine,Oulad M'hand,Oulad M'hand,b85c3273
+499175,Ethan,Nwaneri,Nwaneri,7f94982c
 500267,Loïc,Badé,Badé,114bbdee
 501468,Tayo,Adaramola,Adaramola,c150b220
 501770,Ben,Nelson,Nelson,7be10897
@@ -1802,6 +1804,7 @@ code,first_name,second_name,web_name,fbref
 513789,Thanawat,Suengchitthawon,Suengchitthawon,7a6bb9ed
 513852,Kris,Moore,Moore,b660a486
 514229,Sam,Waller,Waller,8ee48565
+514315,Lino,Sousa,Sousa,e09d77a2
 514356,Roméo,Lavia,Lavia,ecad9aa5
 515024,Luke,Harris,Harris,42dd1b56
 515501,Álvaro,Fernández,Álvaro Fernández,f127d782
