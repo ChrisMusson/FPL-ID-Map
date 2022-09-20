@@ -1732,6 +1732,7 @@ code,first_name,second_name,web_name,understat
 474907,Reece,Welch,Welch,
 475168,João Pedro,Junqueira de Jesus,João Pedro,8272
 475492,Oliver,Hammond,Hammond,
+476502,Boubacar,Traoré,Traoré,8119
 476888,Sékou,Mara,Mara,8970
 477064,Rico,Lewis,Lewis,10847
 477386,Armel,Bella-Kotchap,Bella-Kotchap,9710
@@ -1789,6 +1790,7 @@ code,first_name,second_name,web_name,understat
 496661,Tyler,Dibling,Dibling,
 497605,Liam,Gibbs,Gibbs,
 498046,Salah-Eddine,Oulad M'hand,Oulad M'hand,
+499175,Ethan,Nwaneri,Nwaneri,11132
 500267,Loïc,Badé,Badé,8665
 501468,Tayo,Adaramola,Adaramola,
 501770,Ben,Nelson,Nelson,
@@ -1802,6 +1804,7 @@ code,first_name,second_name,web_name,understat
 513789,Thanawat,Suengchitthawon,Suengchitthawon,
 513852,Kris,Moore,Moore,
 514229,Sam,Waller,Waller,
+514315,Lino,Sousa,Sousa,
 514356,Roméo,Lavia,Lavia,10004
 515024,Luke,Harris,Harris,
 515501,Álvaro,Fernández,Álvaro Fernández,5191
@@ -1825,6 +1828,3 @@ code,first_name,second_name,web_name,understat
 547701,Archie,Gray,Gray,
 563883,Vincent,Angelini,Angelini,
 573808,Jack,Grieves,Grieves,
-476502,Boubacar,Traoré,Traoré,8119
-499175,Ethan,Nwaneri,Nwaneri,11132
-514315,Lino,Sousa,Sousa,
