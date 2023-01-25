@@ -559,6 +559,7 @@ code,first_name,second_name,web_name,fbref
 81048,Josip,Drmic,Drmic,15ea94de
 81061,Michael,Simões Domingues,Mika,d74a54d1
 81183,Matej,Vydra,Vydra,0d4ceb32
+81205,Mislav,Orsic,Orsic,ee950928
 81441,Mark,Gillespie,Gillespie,e32958b7
 81880,Alex,Oxlade-Chamberlain,Chamberlain,38c7feef
 82078,Kenneth,Zohore,Zohore,5e508d0d
@@ -616,6 +617,7 @@ code,first_name,second_name,web_name,fbref
 88175,Lovre,Kalinic,Kalinic,3a74f92b
 88248,Stefan,Ortega Moreno,Ortega,c1242d4e
 88482,Álvaro,Morata,Morata,129af0db
+88484,Pablo,Sarabia,Sarabia,9744ff80
 88498,Benik,Afobe,Afobe,b63f4077
 88734,Neil,Etheridge,Etheridge,2642bf6c
 88894,Ross,Barkley,Barkley,3a24769f
@@ -728,6 +730,7 @@ code,first_name,second_name,web_name,fbref
 105717,Arthur,Masuaku,Masuaku,57df7a11
 106449,Kevin,Stewart,Stewart,ff674795
 106450,Alex,Pritchard,Pritchard,ff9fcd4d
+106468,Alexandre,Moreno Lopera,Álex Moreno,16e9d0ea
 106603,Ezekiel,Fryers,Fryers,f58d6213
 106611,Michael,Keane,Keane,c5b7c315
 106617,Patrick,Bamford,Bamford,93feac6e
@@ -1345,6 +1348,7 @@ code,first_name,second_name,web_name,fbref
 219937,Rhys,Williams,R.Williams,012c975a
 219961,Raphael,Dias Belloli,Raphinha,3423f250
 220037,Bailey,Peacock-Farrell,Peacock-Farrell,4879f8cb
+220087,Maximilian,Wöber,Wöber,4b803b3c
 220166,Marc,Navarro,Navarro,c2846353
 220237,Sven,Botman,Botman,ccce7025
 220307,Arnaut,Danjuma Groeneveld,Danjuma,f08490a6
@@ -1495,6 +1499,7 @@ code,first_name,second_name,web_name,fbref
 242166,Mattéo,Guendouzi,Guendouzi,5ea8ef20
 242183,James,Morris,Morris,59e3e314
 242510,Louie,Moulden,Moulden,7b7de75a
+242880,Benoît,Badiashile,Badiashile,06df8256
 242885,Loïc,Mbe Soh,Mbe Soh,8f534f8e
 242898,Brennan,Johnson,Johnson,0cd31129
 243016,Alexis,Mac Allister,Mac Allister,83d074ff
@@ -1533,6 +1538,7 @@ code,first_name,second_name,web_name,fbref
 247664,Terry,Ablade,Ablade,d524dcd7
 248164,Viljami,Sinisalo,Sinisalo,a48635b8
 248853,Dynel,Simeu,Simeu,6df49f02
+248857,Noni,Madueke,Madueke,bf34eebd
 248865,Armstrong,Oko-Flex,Oko-Flex,ab77d10d
 248937,Sam,Greenwood,Greenwood,f3354c07
 249231,Keane,Lewis-Potter,Lewis-Potter,41f08ac8
@@ -1546,6 +1552,7 @@ code,first_name,second_name,web_name,fbref
 423649,Enock,Mwepu,Mwepu,1d5cab82
 427623,Chris,Richards,Richards,0a3d6d2b
 427637,Brenden,Aaronson,Aaronson,5bc43860
+428399,João,Félix Sequeira,João Félix,8aafd64f
 428580,Frank,Onyeka,Onyeka,2944f86f
 428610,Bruno André,Cavaco Jordão,Jordão,41ff002d
 428626,Przemyslaw,Placheta,Placheta,3c33f9d9
@@ -1677,6 +1684,7 @@ code,first_name,second_name,web_name,fbref
 460028,Levi,Colwill,Colwill,700783e7
 460029,Nathan,Young-Coombes,Young-Coombes,f9682888
 461012,Cameron,Plain,Plain,8c45f10e
+461013,Euan,Pollock,Pollock,ea0271ee
 461017,Christian,Saydee,Saydee,af102dc3
 461023,Ryan,Alebiosu,Alebiosu,ce048fb8
 461025,Nathan,Butler-Oyedeji,Butler-Oyedeji,3a686640
@@ -1712,6 +1720,7 @@ code,first_name,second_name,web_name,fbref
 462635,Joe,Gelhardt,Gelhardt,01962d0d
 462831,Scott,Banks,Banks,d01f8942
 463034,Liam,Delap,Delap,dd897ee7
+463067,Georginio,Rutter,Rutter,c64c01fc
 463748,Karl,Hein,Hein,aa81d8f8
 463912,Elia,Caprile,Caprile,97d7afbd
 463981,James,Hill,Hill,69942fb3
@@ -1723,6 +1732,7 @@ code,first_name,second_name,web_name,fbref
 465527,Hannibal,Mejbri,Mejbri,ca22ccb0
 465551,Nigel,Lonwijk,Lonwijk,17be8dc3
 465572,Reda,Khadra,Khadra,88acf83f
+465920,Mykhailo,Mudryk,Mudryk,049a888d
 466404,Andrew,Omobamidele,Omobamidele,c393a6c4
 466955,Brandon,Pierrick,Pierrick,9a526299
 467114,Oliver,Casey,Casey,2d82641c
@@ -1759,6 +1769,7 @@ code,first_name,second_name,web_name,fbref
 480818,Billy,Koumetio,Koumetio,866c67e9
 481371,Zak,Brunt,Brunt,a31f0ebf
 481405,Mads,Bidstrup,Bidstrup,407db0d5
+481510,Victor,Kristiansen,Kristiansen,505486d6
 481624,Jaden,Philogene-Bidace,Philogene-Bidace,19f4d211
 481626,Christian,Marques,Marques,a7cf1541
 482442,Pape Matar,Sarr,Sarr,feb5d972
@@ -1812,6 +1823,7 @@ code,first_name,second_name,web_name,fbref
 501468,Tayo,Adaramola,Adaramola,c150b220
 501770,Ben,Nelson,Nelson,7be10897
 501837,Yerson,Mosquera Valdelamar,Mosquera,1e159d70
+502697,Carlos,Alcaraz,Alcaraz,4abac767
 503300,Matthew,Cox,Cox,fea06849
 503301,Omari,Hutchinson,Hutchinson,bd9553e6
 505265,Cheikh,Diaby,Diaby,45787ffa
@@ -1819,6 +1831,8 @@ code,first_name,second_name,web_name,fbref
 510362,Toti António,Gomes,Toti,f0caab96
 510363,Francisco Jorge,Tomás Oliveira,Chiquinho,dc6c2f02
 511504,Kristian,Sekularac,Sekularac,e20a28ce
+513046,Danilo,dos Santos de Oliveira,Danilo,a816dbfb
+513418,Kevin,Schade,Schade,52afb588
 513789,Thanawat,Suengchitthawon,Suengchitthawon,7a6bb9ed
 513834,Andrew,Moran,Moran,c4720845
 513852,Kris,Moore,Moore,b660a486
@@ -1850,6 +1864,8 @@ code,first_name,second_name,web_name,fbref
 531989,David,Ozoh,Ozoh,d00d45ab
 532135,Killian,Phillips,Phillips,cfa9f361
 532529,Jack,Hinshelwood,Hinshelwood,e98211e7
+532605,Andrey,Nascimento dos Santos,Andrey Santos,dd745366
+533463,Dango,Ouattara,Ouattara,2f9e4435
 533719,Adrian,Blake,Blake,d9a21f02
 535339,Tiago,Çukur,Çukur,ca990d30
 535928,Stefan,Bajcetic,Bajcetic,32e8417f
@@ -1859,11 +1875,14 @@ code,first_name,second_name,web_name,fbref
 537403,Kadan,Young,Kadan Young,91c75917
 538207,William,Osula,Osula,7b355808
 547701,Archie,Gray,Gray,f58515f5
+550596,Dominic,Sadi,Sadi,54778940
 563883,Vincent,Angelini,Angelini,536e58cc
 564510,Garang,Kuol,Kuol,a8a80be7
 565297,Mateo Joseph,Fernández,Mateo Joseph,6ad43f9a
 573062,Martial,Godo,Godo,e0eea46f
 573808,Jack,Grieves,Grieves,2cf03378
+590760,Daniel,Adu-Adjei,Adu-Adjei,2093823e
 591357,Ryan,Trevitt,Trevitt,732327ae
 592661,Tristan,Crama,Crama,130e085a
+596572,Michael,Dacosta Gonzalez,Dacosta Gonzalez,c1426015
 601975,Yegor,Yarmolyuk,Yarmolyuk,907a5d7c
