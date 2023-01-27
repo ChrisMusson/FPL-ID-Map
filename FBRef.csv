@@ -307,7 +307,7 @@ code,first_name,second_name,web_name,fbref
 46695,Ritchie,de Laet,de Laet,dc234f98
 47247,John,Fleck,Fleck,b63e789d
 47390,Neil,Taylor,Taylor,c2f9d19f
-47431,Willian,Borges Da Silva,Willian,8b9ebd03
+47431,Willian,Borges da Silva,Willian,8b9ebd03
 48332,Orestis,Karnezis,Karnezis,85b011bb
 48615,Harry,Arter,Arter,2f4c5a52
 48717,Winston,Reid,Reid,562eed5c
@@ -408,7 +408,7 @@ code,first_name,second_name,web_name,fbref
 57513,Jonas,Lössl,Lössl,939bc634
 57531,Michail,Antonio,Antonio,ac05f970
 57586,Luciano,Narsingh,Narsingh,977ffc24
-57647,Lyle,Taylor,Taylor,3e80e04e
+57647,Lyle,Taylor,Lyle Taylor,3e80e04e
 57736,Jan,Kirchhoff,Kirchhoff,a14d04e3
 57913,Barry,Douglas,Douglas,c859705e
 58376,Alex,McCarthy,McCarthy,36c2ca73
@@ -441,7 +441,7 @@ code,first_name,second_name,web_name,fbref
 60232,Craig,Dawson,Dawson,3e9e06cb
 60252,Andros,Townsend,Townsend,b28bbd58
 60270,Simone,Zaza,Zaza,9592289a
-60307,Pascal,Groß,Gross,8aec0537
+60307,Pascal,Groß,Groß,8aec0537
 60551,Ashley,Westwood,Westwood,495945ef
 60586,Johann Berg,Gudmundsson,Gudmundsson,f72293fc
 60598,Aleksandar,Dragovic,Dragovic,6fd8a334
@@ -817,7 +817,7 @@ code,first_name,second_name,web_name,fbref
 121160,Ederson,Santana de Moraes,Ederson,3bb7b8b4
 121221,Ramiro,Funes Mori,Funes Mori,89cbc961
 121570,Julian,Jeanvier,Jeanvier,5cb215fc
-121599,Abdoulaye,Doucouré,Doucouré,02b29014
+121599,Abdoulaye,Doucouré,A.Doucouré,02b29014
 122074,Marcus,Bettinelli,Bettinelli,0d85a4e8
 122342,Emerson,Hyndman,Hyndman,3be1a627
 122775,Morgan,Sanson,Sanson,6e7f1353
@@ -1392,7 +1392,7 @@ code,first_name,second_name,web_name,fbref
 222694,Pascal,Struijk,Struijk,f4d296e4
 222786,Panagiotis,Retsos,Retsos,4bd00a50
 223081,Kristoffer,Klaesson,Klaesson,3f70db80
-223094,Erling,Håland,Haaland,1f44ac21
+223094,Erling,Haaland,Haaland,1f44ac21
 223175,Matthew,Longstaff,M.Longstaff,c0027d2d
 223332,Faustino,Anjorin,Anjorin,b105919e
 223335,Sylvester,Jasper,Jasper,a9f04944
@@ -1627,7 +1627,7 @@ code,first_name,second_name,web_name,fbref
 444181,Nnamdi,Ofoborh,Ofoborh,76bca47e
 444183,Gavin,Kilkenny,Kilkenny,3eeda7dd
 444253,Jordan,Thomas,Thomas,b547f08c
-444463,Wesley,Fofana,Fofana,132a82f1
+444463,Wesley,Fofana,W.Fofana,132a82f1
 444575,Toby,King,King,25671a6a
 444765,Sepp,van den Berg,Van den Berg,7bf9400b
 444880,Mika,Biereth,Biereth,a1d95db3
@@ -1806,7 +1806,7 @@ code,first_name,second_name,web_name,fbref
 492777,Conor,Bradley,Bradley,bbd67769
 492859,Wilfried,Gnonto,Gnonto,75fdd638
 493105,Alejandro,Garnacho,Garnacho,7aa8adfe
-493250,Amad,Diallo,Diallo,9dc96f10
+493250,Amad,Diallo,Amad,9dc96f10
 493736,Jimmy,Morgan,Morgan,f9d409a1
 493928,Marcelo,Flores,Flores,937b36b1
 493934,Kwadwo,Baah,Baah,f240e4f2
@@ -1853,7 +1853,7 @@ code,first_name,second_name,web_name,fbref
 518906,Owen,Bevan,Bevan,87966294
 519223,Sammy,Braybrooke,Braybrooke,9f684e25
 519324,Amario,Cozier-Duberry,Cozier-Duberry,04eb7d82
-520295,David Datro,Fofana,D.Fofana,e82900ef
+520295,David Datro,Fofana,D.D.Fofana,e82900ef
 523700,Daniel,Jebbison,Jebbison,03edb878
 524069,Dale,Taylor,Dale Taylor,d5094280
 524196,Shaqai,Forde,Forde,ebeac9e5

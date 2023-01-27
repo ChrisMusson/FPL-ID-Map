@@ -102,7 +102,7 @@ code,first_name,second_name,web_name,22-23
 39155,Adam,Lallana,Lallana,101
 49262,Jason,Steele,Steele,102
 50175,Danny,Welbeck,Welbeck,103
-60307,Pascal,Groß,Gross,104
+60307,Pascal,Groß,Groß,104
 61933,Shane,Duffy,Duffy,105
 83299,Lewis,Dunk,Dunk,106
 109345,Solly,March,March,107
@@ -183,7 +183,7 @@ code,first_name,second_name,web_name,22-23
 111234,Jordan,Pickford,Pickford,182
 119765,Allan,Marques Loureiro,Allan,183
 120250,André,Tavares Gomes,André Gomes,184
-121599,Abdoulaye,Doucouré,Doucouré,185
+121599,Abdoulaye,Doucouré,A.Doucouré,185
 153133,Alex,Iwobi,Iwobi,186
 160987,Jean-Philippe,Gbamin,Gbamin,187
 164511,Yerry,Mina,Mina,188
@@ -270,7 +270,7 @@ code,first_name,second_name,web_name,22-23
 225902,Boubakary,Soumaré,Soumaré,269
 244619,Luke,Thomas,Thomas,270
 245419,Patson,Daka,Daka,271
-444463,Wesley,Fofana,Fofana,272
+444463,Wesley,Fofana,W.Fofana,272
 232620,Lewis,Brunt,Brunt,273
 15157,James,Milner,Milner,274
 56979,Jordan,Henderson,Henderson,275
@@ -316,7 +316,7 @@ code,first_name,second_name,web_name,22-23
 220566,Rodrigo,Hernandez,Rodri,315
 244851,Cole,Palmer,Palmer,316
 432714,James,McAtee,McAtee,317
-223094,Erling,Håland,Haaland,318
+223094,Erling,Haaland,Haaland,318
 461358,Julián,Álvarez,Álvarez,319
 439510,Luke,Mbete-Tabu,Mbete,320
 514356,Roméo,Lavia,Lavia,321
@@ -378,7 +378,7 @@ code,first_name,second_name,web_name,22-23
 220237,Sven,Botman,Botman,377
 48615,Harry,Arter,Arter,378
 56917,Steve,Cook,Cook,379
-57647,Lyle,Taylor,Taylor,380
+57647,Lyle,Taylor,Lyle Taylor,380
 58771,Jack,Colback,Colback,381
 102836,Brice,Samba,Samba,382
 166325,Carlos,Ribeiro Dias,Cafú,383
@@ -682,7 +682,7 @@ code,first_name,second_name,web_name,22-23
 185253,Gustavo Henrique,Furtado Scarpa,Scarpa,681
 430871,Matheus,Santos Carneiro Da Cunha,Cunha,682
 564510,Garang,Kuol,Kuol,683
-520295,David Datro,Fofana,D.Fofana,684
+520295,David Datro,Fofana,D.D.Fofana,684
 461025,Nathan,Butler-Oyedeji,Butler-Oyedeji,685
 218997,Ellis,Simms,Simms,686
 461587,Kasey,McAteer,McAteer,687
