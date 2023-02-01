@@ -159,6 +159,7 @@ code,first_name,second_name,web_name,understat
 28147,Mohamed,Diamé,Diamé,4471
 28160,Mario,Suárez,Suárez,576
 28244,George,Boyd,Boyd,1656
+28411,Keylor,Navas,Navas,2243
 28448,Lee,Cattermole,Cattermole,738
 28462,Sam,Baldock,Baldock,6430
 28468,Craig,Gardner,Gardner,812
@@ -698,6 +699,7 @@ code,first_name,second_name,web_name,understat
 101179,Lloyd,Isgrove,Isgrove,1761
 101184,Calum,Chambers,Chambers,508
 101188,Lucas,Digne,Digne,1823
+101338,Marcel,Sabitzer,Sabitzer,5248
 101394,Okay,Yokuslu,Yokuslu,6932
 101537,Felipe Anderson,Pereira Gomes,Felipe Anderson,1208
 101582,Frederico,Rodrigues de Paula Santos,Fred,6817
@@ -801,6 +803,7 @@ code,first_name,second_name,web_name,understat
 115858,Rachid,Ghezzal,Ghezzal,3276
 115918,Rúnar Alex,Rúnarsson,Rúnarsson,6875
 116216,Leandro,Trossard,Trossard,7698
+116404,Felipe Augusto,de Almeida Monteiro,Felipe,7921
 116535,Alisson,Ramses Becker,Alisson,1257
 116543,Valentino,Lazaro,Lazaro,6352
 116594,N'Golo,Kanté,Kanté,751
@@ -870,6 +873,7 @@ code,first_name,second_name,web_name,understat
 146610,Jack,O'Connell,O'Connell,7705
 146941,Aymeric,Laporte,Laporte,2498
 147303,Laurent,Depoitre,Depoitre,6038
+147611,Paul,Onuachu,Onuachu,
 147612,Richairo,Zivkovic,Zivkovic,8472
 147668,Cameron,Brannagan,Brannagan,1023
 147675,Chuba,Akpom,Akpom,1790
@@ -1283,6 +1287,7 @@ code,first_name,second_name,web_name,understat
 210407,Matheus,Pereira,Pereira,7153
 210494,Nayef,Aguerd,Aguerd,6935
 211975,Manuel,Akanji,Akanji,6490
+212314,Sasa,Lukic,Lukic,1537
 212319,Richarlison,de Andrade,Richarlison,6026
 212325,Pierre,Lees-Melou,Lees-Melou,5619
 212701,Denis,Zakaria,Zakaria,6147
@@ -1496,6 +1501,7 @@ code,first_name,second_name,web_name,understat
 240796,Álvaro,Fernández,Fernández,5191
 241157,Emerson,Leite de Souza Junior,Emerson Royal,7430
 241289,Ben,Wilmot,Wilmot,7216
+241519,Weston,McKennie,McKennie,5360
 241791,Ryan,Schofield,Schofield,
 242058,Moise,Kean,Kean,1304
 242166,Mattéo,Guendouzi,Guendouzi,5759
@@ -1519,6 +1525,7 @@ code,first_name,second_name,web_name,understat
 244085,Siriki,Dembélé,Dembélé,
 244560,Romain,Perraud,Perraud,6500
 244619,Luke,Thomas,Thomas,8562
+244704,Matías,Viña,Viña,9892
 244716,Juan Camilo,Hernández Suárez,Cucho,6954
 244723,Tyrick,Mitchell,Mitchell,8214
 244731,Luis,Díaz,Luis Díaz,10408
@@ -1552,6 +1559,7 @@ code,first_name,second_name,web_name,understat
 422306,Will,Ferry,Ferry,
 422612,Ryan,Astley,Astley,
 423649,Enock,Mwepu,Mwepu,9734
+424044,Hamed,Traorè,H.Traorè,6986
 427623,Chris,Richards,Richards,8430
 427637,Brenden,Aaronson,Aaronson,10751
 428399,João,Félix Sequeira,João Félix,7892
@@ -1615,6 +1623,7 @@ code,first_name,second_name,web_name,understat
 440854,Jakub,Kiwior,Kiwior,10012
 440993,Iliman,Ndiaye,Ndiaye,9307
 441024,Harrison,Ashby,Ashby,10061
+441164,Pedro,Porro,Pedro Porro,6912
 441191,Tino,Livramento,Livramento,9512
 441192,Jeremy,Sarmiento Morante,Sarmiento,10036
 441271,Ki-Jana,Hoever,Hoever,8351
@@ -1653,6 +1662,8 @@ code,first_name,second_name,web_name,understat
 447879,Joseph,Anang,Anang,
 447880,Josh,Wilson-Esbrand,Wilson-Esbrand,
 447932,Jordan,Zemura,Zemura,10740
+448047,Enzo,Fernández,Enzo,
+448089,João Victor,Gomes da Silva,João Gomes,
 448482,Robert,Street,Street,
 448487,Andreas,Söndergaard,Söndergaard,
 448496,Ed,Turns,Turns,
@@ -1737,6 +1748,7 @@ code,first_name,second_name,web_name,understat
 465551,Nigel,Lonwijk,Lonwijk,
 465572,Reda,Khadra,Khadra,9250
 465920,Mykhailo,Mudryk,Mudryk,11305
+466117,Naouirou,Ahamada,Ahamada,9274
 466404,Andrew,Omobamidele,Omobamidele,9833
 466955,Brandon,Pierrick,Pierrick,8216
 467114,Oliver,Casey,Casey,
@@ -1764,6 +1776,7 @@ code,first_name,second_name,web_name,understat
 477064,Rico,Lewis,Lewis,10847
 477386,Armel,Bella-Kotchap,Bella-Kotchap,9710
 477547,Leo Fuhr,Hjelde,Hjelde,10028
+477580,Illia,Zabarnyi,Zabarnyi,
 478028,Kayky da Silva,Chagas,Kayky,10203
 478227,Stefan,Parkes,Parkes,
 478449,Kyron,Gordon,Gordon,
@@ -1832,7 +1845,9 @@ code,first_name,second_name,web_name,understat
 502697,Carlos,Alcaraz,Alcaraz,11297
 503300,Matthew,Cox,Cox,
 503301,Omari,Hutchinson,Hutchinson,
+504783,Kamaldeen,Sulemana,Kamaldeen,9630
 505265,Cheikh,Diaby,Diaby,
+509416,Yasin,Ayari,Ayari,
 510328,Stanley,Mills,Mills,
 510362,Toti António,Gomes,Toti,10293
 510363,Francisco Jorge,Tomás Oliveira,Chiquinho,10327
