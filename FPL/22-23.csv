@@ -157,7 +157,7 @@ code,first_name,second_name,web_name,22-23
 55494,Joel,Ward,Ward,156
 57328,Nathaniel,Clyne,Clyne,157
 66975,Luka,Milivojevic,Milivojevic,158
-80146,Jordan,Ayew,Ayew,159
+80146,Jordan,Ayew,J.Ayew,159
 82403,Wilfried,Zaha,Zaha,160
 86417,Jeffrey,Schlupp,Schlupp,161
 105666,Jack,Butland,Butland,162
@@ -732,3 +732,4 @@ code,first_name,second_name,web_name,22-23
 504783,Kamaldeen,Sulemana,Kamaldeen,731
 147611,Paul,Onuachu,Onuachu,732
 441164,Pedro,Porro,Pedro Porro,733
+45124,André,Ayew,A.Ayew,734
