@@ -1489,6 +1489,7 @@ code,first_name,second_name,web_name,understat
 234908,Juan,Foyth,Foyth,6306
 235382,Steven,Alzate,Alzate,8020
 235448,Ellery,Balcombe,Balcombe,
+235449,George,Wickens,Wickens,
 235530,Lloyd,Kelly,Kelly,8090
 235546,Jacob,Sørensen,Sørensen,9748
 235599,Nikola,Tavares,Tavares,
@@ -1678,6 +1679,7 @@ code,first_name,second_name,web_name,understat
 449974,Lukas,Jensen,Jensen,
 449988,Fabio,Silva,Fabio Silva,8778
 450070,Crysencio,Summerville,Summerville,9492
+450197,George,Shelvey,G.Shelvey,
 450314,Matthew,Daly,Daly,7458
 450434,Deniz,Undav,Undav,10804
 450527,Mohammed,Salisu,Salisu,6923
@@ -1709,6 +1711,7 @@ code,first_name,second_name,web_name,understat
 461102,Bobby,Thomas,Thomas,
 461188,Bashir,Humphreys,Humphreys,
 461195,Dennis,Cirkin,Cirkin,
+461199,Romaine,Mundle,Mundle,
 461201,Matthew,Craig,Craig,
 461212,Nile,John,John,
 461358,Julián,Álvarez,Álvarez,10846
@@ -1878,6 +1881,7 @@ code,first_name,second_name,web_name,understat
 515599,Tommi,O'Reilly,O'Reilly,
 516159,Oliwier,Zych,Zych,
 516895,Kobbie,Mainoo,Mainoo,
+518438,Kaelan,Casey,Casey,
 518504,James,Storer,Storer,
 518906,Owen,Bevan,Bevan,11034
 519223,Sammy,Braybrooke,Braybrooke,
@@ -1903,6 +1907,7 @@ code,first_name,second_name,web_name,understat
 537043,Kaine,Kesler Hayden,Kesler Hayden,
 537403,Kadan,Young,Kadan Young,
 538207,William,Osula,Osula,
+547673,Charlie,Robinson,C.Robinson,
 547701,Archie,Gray,Gray,
 547719,Lewis,Miley,Miley,
 550596,Dominic,Sadi,Sadi,
@@ -1916,4 +1921,3 @@ code,first_name,second_name,web_name,understat
 592661,Tristan,Crama,Crama,
 596572,Michael,Dacosta Gonzalez,Dacosta Gonzalez,
 601975,Yegor,Yarmolyuk,Yarmolyuk,
-518438,Kaelan,Casey,Casey,
