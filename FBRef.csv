@@ -1837,6 +1837,7 @@ code,first_name,second_name,web_name,fbref
 462424,William,Saliba,Saliba,972aeb2a
 462438,Micah,Hamilton,Hamilton,0b059e15
 462491,Luke,Chambers,Chambers,7d6af698
+462492,Joe,Gauci,Gauci,5600c774
 462635,Joe,Gelhardt,Gelhardt,01962d0d
 462831,Scott,Banks,Banks,d01f8942
 463034,Liam,Delap,Delap,dd897ee7
@@ -1951,6 +1952,8 @@ code,first_name,second_name,web_name,fbref
 490180,Aribim,Pepple,Pepple,94c53a55
 490503,Samuel,Edozie,Edozie,007414dd
 490721,Hugo,Bueno López,Bueno,bfc3b3a0
+490881,Toby,Collyer,Collyer,4f9091bc
+490885,George,Earthy,Earthy,123d2733
 490887,Zach,Awe,Awe,7a0ae4f0
 491008,Diogo,Pinheiro Monteiro,Monteiro,17850779
 491011,Diego Manuel Jadon,da Silva Moreira,Diego Moreira,12de1b0d
@@ -2000,6 +2003,7 @@ code,first_name,second_name,web_name,fbref
 499175,Ethan,Nwaneri,Nwaneri,7f94982c
 499724,Samuel,Amo-Ameyaw,Amo-Ameyaw,9eedf0e0
 500052,Luca,Barrington,Barrington,85d7679f
+500058,Jayden,Danns,Danns,003cf4d1
 500267,Loïc,Badé,Badé,114bbdee
 501284,Michael,Olakigbe,Olakigbe,cdd70dc0
 501468,Tayo,Adaramola,Adaramola,c150b220
@@ -2009,6 +2013,7 @@ code,first_name,second_name,web_name,fbref
 503139,Alex,Scott,Scott,104d0bb8
 503300,Matthew,Cox,Cox,fea06849
 503301,Omari,Hutchinson,Hutchinson,bd9553e6
+503308,James,Sweet,Sweet,d4632cfa
 503714,Lesley,Ugochukwu,Ugochukwu,1df4a109
 503724,Lorenz,Assignon,Assignon,b026bbf6
 504198,Anis,Slimane,Slimane,9ade9ce1
@@ -2041,6 +2046,7 @@ code,first_name,second_name,web_name,fbref
 514287,Sil,Swinkels,Swinkels,a42f6058
 514315,Lino,Sousa,Sousa,e09d77a2
 514356,Roméo,Lavia,Lavia,ecad9aa5
+514514,Lewis,Koumas,Koumas,d77edba6
 515023,Matthew,Dibley-Dias,Dibley-Dias,979cb300
 515024,Luke,Harris,Harris,42dd1b56
 515496,Owen,Goodman,Goodman,8074e66f
@@ -2052,12 +2058,14 @@ code,first_name,second_name,web_name,fbref
 515597,Lamare,Bogarde,Bogarde,bca5c4a7
 515599,Tommi,O'Reilly,O'Reilly,345fc437
 516159,Oliwier,Zych,Zych,be18d79f
+516250,Jacob,Wright,Wright,b6db05c3
 516432,Valintino,Adedokun,Adedokun,1b5344ef
 516874,Charles,Sagoe,Sagoe,187ab096
 516895,Kobbie,Mainoo,Mainoo,c6220452
 517052,Nicolas,Jackson,N.Jackson,9c36ed83
 517995,Leo,Castledine,Castledine,1c86192d
 517996,Ronnie,Stutter,Stutter,e3f9e68a
+518199,Fabian,Mrozek,Mrozek,927eecf9
 518438,Kaelan,Casey,Casey,cd4b2c5f
 518442,Lewis,Orford,Orford,40aaa04c
 518466,Willy,Kambwala,Kambwala,6a7353d7
@@ -2084,6 +2092,7 @@ code,first_name,second_name,web_name,fbref
 531989,David,Ozoh,Ozoh,d00d45ab
 531993,Ademola,Ola-Adebomi,Ola-Adebomi,efacf4fd
 532135,Killian,Phillips,Phillips,cfa9f361
+532372,Oliver,Arblaster,Arblaster,afe1a491
 532377,Louie,Marsh,Marsh,7923301c
 532528,Joshua,Duffus,Duffus,6224214f
 532529,Jack,Hinshelwood,Hinshelwood,e98211e7
@@ -2111,6 +2120,7 @@ code,first_name,second_name,web_name,fbref
 538206,Jordan,Amissah,Amissah,50fc4c0a
 538207,William,Osula,Osula,7b355808
 538210,Andre,Brooks,Brooks,5f346071
+543158,Valentín,Barco,Barco,b9f282ec
 544877,Milos,Kerkez,Kerkez,0ad53bdc
 545477,Alex,Murphy,A.Murphy,f1c42eb3
 547659,Josh,Powell,Powell,8129b437
@@ -2121,6 +2131,7 @@ code,first_name,second_name,web_name,fbref
 547719,Lewis,Miley,Miley,2c6835e5
 548308,Ashley,Phillips,Phillips,4f21d3af
 549068,Omari,Kellyman,Kellyman,aa888da7
+549344,Sam,Curtis,Curtis,7d42865e
 550596,Dominic,Sadi,Sadi,54778940
 550833,Noha,Lemina,N.Lemina,28401b55
 550839,Wilson,Odobert,Odobert,35516eac
@@ -2135,6 +2146,7 @@ code,first_name,second_name,web_name,fbref
 570241,Ji-Soo,Kim,Kim Ji-Soo,f4065d9e
 573062,Martial,Godo,Godo,e0eea46f
 573808,Jack,Grieves,Grieves,2cf03378
+574398,Franco,Umeh-Chibueze,Umeh-Chibueze,8e526344
 574402,Mark,O’Mahony,O’Mahony,a3afdd69
 575476,Murillo,Santiago Costa dos Santos,Murillo,1704b0b8
 577725,Joshua,King,King,86109b3b
@@ -2144,13 +2156,16 @@ code,first_name,second_name,web_name,fbref
 590760,Daniel,Adu-Adjei,Adu-Adjei,2093823e
 591357,Ryan,Trevitt,Trevitt,732327ae
 591386,Treymaurice,Nyoni,Nyoni,1d3b3d77
+591539,Billy,Blacker,Blacker,2b08b6e5
 592436,Travis,Hernes,Hernes,849e071e
 592661,Tristan,Crama,Crama,130e085a
 593001,Enso,González,González,7e5bebeb
 596572,Michael,Dacosta Gonzalez,Dacosta Gonzalez,c1426015
+597983,Ollie,Harrison,Harrison,6ce635b6
 601496,Jili,Buyabu,Buyabu,15ee4bc1
 601975,Yegor,Yarmolyuk,Yarmolyuk,907a5d7c
 608060,Jayden,Luker,Luker,61aed9fe
 611011,Joseph,Johnson,Johnson,d9e7c4da
 612534,Benjamin,Fredrick,Fredrick,fde367e5
+616094,Dovydas,Sasnauskas,Sasnauskas,9463c7eb
 617054,Deivid Washington,de Souza Eugênio,Deivid,95bd120d
