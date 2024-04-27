@@ -3,3 +3,5 @@ old/
 generate_master.py
 update_names.py
 get_bootstrap.py
+all_understat_ids.csv
+get_understat_data.py
