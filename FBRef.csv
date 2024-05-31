@@ -1694,6 +1694,7 @@ code,first_name,second_name,web_name,fbref
 437858,Vitor,Ferreira,Vitinha,3b029691
 438098,Fábio,Ferreira Vieira,Fábio Vieira,6412cc03
 438277,Ozan,Kabak,Kabak,2d61d13a
+438405,Billy,Crellin,Crellin,1a85a237
 438464,Cheick,Doucouré,C.Doucouré,ce4f40c7
 439242,Taylor,Gardner-Hickman,Gardner-Hickman,f05ee68d
 439482,Miguel,Azeez,Azeez,660e71be
@@ -1993,6 +1994,7 @@ code,first_name,second_name,web_name,fbref
 496185,Kaide,Gordon,Gordon,19a9cb70
 496208,Ben,Doak,Doak,733f1a7d
 496221,Adam,Wharton,Wharton,4b542852
+496222,Zak,Sturge,Sturge,1095aec1
 496228,Sonny,Perkins,Perkins,87f12e30
 496283,Mahamadou,Susoho,Susoho,6cdd9d3d
 496661,Tyler,Dibling,Dibling,bdcc89ae
@@ -2003,6 +2005,7 @@ code,first_name,second_name,web_name,fbref
 498046,Salah-Eddine,Oulad M'hand,Oulad M'hand,b85c3273
 499169,Myles,Lewis-Skelly,Lewis-Skelly,5dff6c28
 499175,Ethan,Nwaneri,Nwaneri,7f94982c
+499721,Mikey,Moore,Moore,00953a9d
 499724,Samuel,Amo-Ameyaw,Amo-Ameyaw,9eedf0e0
 499857,Teddy,Sharman-Lowe,Sharman-Lowe,7cd31238
 500052,Luca,Barrington,Barrington,85d7679f
@@ -2141,6 +2144,7 @@ code,first_name,second_name,web_name,fbref
 547716,Ben,Parkinson,Parkinson,32163807
 547719,Lewis,Miley,Miley,2c6835e5
 548308,Ashley,Phillips,Phillips,4f21d3af
+549014,Noël,Atom,Atom,966f64a3
 549068,Omari,Kellyman,Kellyman,aa888da7
 549344,Sam,Curtis,Curtis,7d42865e
 550596,Dominic,Sadi,Sadi,54778940
@@ -2153,6 +2157,7 @@ code,first_name,second_name,web_name,fbref
 552425,Sydie,Peck,Peck,767d9605
 559963,Kiano,Dyer,Dyer,b43204f6
 563883,Vincent,Angelini,Angelini,536e58cc
+563934,Tyrese,Hall,Hall,f2e48542
 564505,Sam,Proctor,Proctor,b96cec48
 564510,Garang,Kuol,Kuol,a8a80be7
 565297,Mateo Joseph,Fernández,Mateo Joseph,6ad43f9a
@@ -2193,5 +2198,7 @@ code,first_name,second_name,web_name,fbref
 616094,Dovydas,Sasnauskas,Sasnauskas,9463c7eb
 617054,Deivid Washington,de Souza Eugênio,Deivid,95bd120d
 622536,Benjamin,Arthur,Arthur,093f0923
+628204,Yunus,Konak,Konak,e02b5b36
 634640,Christian,Chigozie,Chigozie,2dbd5678
+646754,Lander,Emery,Emery,b5f7fd45
 647597,Dominic,Dos Santos Martins,Martins,00464670
