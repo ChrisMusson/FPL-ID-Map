@@ -1,5 +1,6 @@
 import csv
 import os
+
 import requests
 
 
@@ -17,12 +18,12 @@ with requests.Session() as s:
     url = "https://fantasy.premierleague.com/api/bootstrap-static/"
     players = s.get(url).json()["elements"]
 
-data = [["code", "first_name", "second_name", "web_name", "23-24"]]
+data = [["code", "first_name", "second_name", "web_name", "24-25"]]
 for p in players:
     data.append([p["code"], p["first_name"], p["second_name"], p["web_name"], p["id"]])
 data = [data[0]] + sorted(data[1:], key=lambda x: x[-1])
 
-with open(os.path.join("FPL", "23-24.csv"), "w", encoding="utf-8", newline="") as f:
+with open(os.path.join("FPL", "24-25.csv"), "w", encoding="utf-8", newline="") as f:
     writer = csv.writer(f)
     writer.writerows(data)
 

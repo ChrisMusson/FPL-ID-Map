@@ -1,7 +1,8 @@
 import os
+
 import pandas as pd
 
-seasons = [f"{season}-{season+1}" for season in range(16, 24)]
+seasons = [f"{season}-{season+1}" for season in range(16, 25)]
 fpl_files = [os.path.join("FPL", f"{season}.csv") for season in seasons]
 files = fpl_files + ["FBRef.csv", "Understat.csv", "Transfermarkt.csv"]
 
