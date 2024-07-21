@@ -1493,6 +1493,7 @@ code,first_name,second_name,web_name,understat
 226944,Boubacar,Kamara,Kamara,5789
 226956,Mads,Roerslev Rasmussen,Roerslev,9685
 227127,Yves,Bissouma,Bissouma,5609
+227444,Nikola,Milenković,Milenković,6174
 227560,Oghenekaro Peter,Etebo,Etebo,6538
 228044,Mads,Bech Sørensen,Bech,9683
 228286,Edouard,Mendy,Mendy,6880
@@ -2066,6 +2067,7 @@ code,first_name,second_name,web_name,understat
 507433,Hákon,Valdimarsson,Valdimarsson,12595
 508395,Yegor,Yarmoliuk,Yarmoliuk,11772
 509416,Yasin,Ayari,Ayari,11385
+510281,Sávio 'Savinho',Moreira de Oliveira,Sávio,11735
 510328,Stanley,Mills,Mills,10776
 510362,Toti António,Gomes,Toti,10293
 510363,Francisco Jorge,Tomás Oliveira,Chiquinho,10327
@@ -2139,6 +2141,7 @@ code,first_name,second_name,web_name,understat
 530873,Dara,Costelloe,Costelloe,10568
 531076,Frankie,Maguire,Maguire,9348
 531363,Nathan,Fraser,Fraser,11210
+531442,Abdul,Fatawu,A.Fatawu,
 531989,David,Ozoh,Ozoh,11268
 531993,Ademola,Ola-Adebomi,Ola-Adebomi,12116
 532135,Killian,Phillips,Phillips,11059
@@ -2190,6 +2193,7 @@ code,first_name,second_name,web_name,understat
 550615,Tyrique,George,George,12573
 550833,Noha,Lemina,N.Lemina,12499
 550839,Wilson,Odobert,Odobert,10822
+550864,Leny,Yoro,Yoro,10564
 551230,Renato,Palma Veiga,Renato Veiga,11383
 551232,Rodrigo,Duarte Ribeiro,Ribeiro,12418
 551995,Taylan,Harris,Harris,12565
