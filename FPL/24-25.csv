@@ -264,7 +264,7 @@ code,first_name,second_name,web_name,24-25
 122411,Cameron,Burgess,Burgess,263
 149929,Wes,Burns,Burns,264
 196411,Conor,Chaplin,Chaplin,265
-232228,Harry,Clarke,Clarke,266
+232228,Harry,Clarke,H.Clarke,266
 455084,Leif,Davis,Davis,267
 463034,Liam,Delap,Delap,268
 214964,George,Edmundson,Edmundson,269
@@ -626,3 +626,8 @@ code,first_name,second_name,web_name,24-25
 59859,Ilkay,Gündogan,Gündogan,625
 476369,Issa,Kaboré,Kaboré,626
 496178,Roman,Dixon,Dixon,627
+231416,Ferdi,Kadioglu,F.Kadıoğlu,628
+219249,Matt,O'Riley,O'Riley,629
+216616,Dara,O'Shea,O'Shea,630
+443261,Jack,Clarke,J.Clarke,631
+229164,Chiedozie,Ogbene,Ogbene,632
