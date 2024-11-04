@@ -1759,7 +1759,7 @@ code,first_name,second_name,web_name,understat
 442229,Michal,Karbownik,Karbownik,9320
 442335,Edo,Kayembe,Kayembe,10290
 443211,Rhys,Norrington-Davies,Norrington-Davies,12291
-443261,Jack,Clarke,J.Clarke,
+443261,Jack,Clarke,J.Clarke,13019
 443296,Theo,Corbeanu,Corbeanu,9209
 443629,Marcelo,de Araújo Pitaluga Filho,Pitaluga,10180
 443661,Michael,Olise,Olise,9948
@@ -1934,7 +1934,7 @@ code,first_name,second_name,web_name,understat
 474803,Eddie,Beach,Beach,11979
 474907,Reece,Welch,Welch,9469
 474908,Jadan,Raymond,Raymond,12138
-475123,Carlos Miguel,dos Santos Pereira,C.Miguel,
+475123,Carlos Miguel,dos Santos Pereira,C.Miguel,12764
 475168,João Pedro,Junqueira de Jesus,João Pedro,8272
 475480,Benicio,Baker-Boaitey,Baker-Boaitey,12204
 475492,Oliver,Hammond,Hammond,10763
@@ -2078,7 +2078,7 @@ code,first_name,second_name,web_name,understat
 501468,Tayo,Adaramola,Adaramola,10429
 501770,Ben,Nelson,Nelson,10167
 501837,Yerson,Mosquera Valdelamar,Mosquera,9958
-502222,Ramón,Sosa,Sosa,
+502222,Ramón,Sosa,Sosa,13021
 502500,Igor Thiago,Nascimento Rodrigues,Thiago,
 502697,Carlos,Alcaraz,Alcaraz,11297
 503139,Alex,Scott,Scott,12149
@@ -2170,7 +2170,7 @@ code,first_name,second_name,web_name,understat
 523957,Bénie,Traoré,T.Bénie,11729
 524069,Dale,Taylor,Dale Taylor,11230
 524070,Jamie,McDonnell,McDonnell,12349
-524180,Cameron,Humphreys,Humphreys,
+524180,Cameron,Humphreys,Humphreys,1061
 524196,Shaqai,Forde,Forde,10553
 530117,Louis,Jackson,Jackson,12590
 530318,Kaden,Rodney,Rodney,11033
@@ -2213,6 +2213,7 @@ code,first_name,second_name,web_name,understat
 543158,Valentín,Barco,Barco,12498
 544877,Milos,Kerkez,Kerkez,11709
 545477,Alex,Murphy,A.Murphy,12199
+547037,Jack,Fletcher,Fletcher,13150
 547659,Josh,Powell,Powell,
 547668,Axel,Piesold,Piesold,12510
 547673,Charlie,Robinson,C.Robinson,11467
@@ -2238,8 +2239,10 @@ code,first_name,second_name,web_name,understat
 551995,Taylan,Harris,Harris,12565
 552030,Aidan,Francis-Clarke,Francis-Clarke,11725
 552425,Sydie,Peck,Peck,12251
-552427,Will,Lankshear,Lankshear,
+552427,Will,Lankshear,Lankshear,13127
+554194,Jahmai,Simpson-Pusey,Simpson-Pusey,13185
 554605,Dean,Huijsen,Huijsen,11943
+556639,Jayce,Fitzgerald,Fitzgerald,13196
 559963,Kiano,Dyer,Dyer,12574
 560248,Bastien,Meupiyou,Meupiyou,11775
 563883,Vincent,Angelini,Angelini,10158
@@ -2248,6 +2251,7 @@ code,first_name,second_name,web_name,understat
 564510,Garang,Kuol,Kuol,
 565297,Mateo Joseph,Fernández,Mateo Joseph,11208
 565431,Callum,Marshall,Marshall,12359
+565858,Killian,Cahill,Cahill,13170
 568791,Callan,McKenna,McKenna,12582
 569014,Eric,da Silva Moreira,Da Silva Moreira,12765
 570241,Ji-Soo,Kim,Kim Ji-Soo,12136
@@ -2259,7 +2263,7 @@ code,first_name,second_name,web_name,understat
 575034,Ethan,Wheatley,Wheatley,12568
 575476,Murillo,Santiago Costa dos Santos,Murillo,12123
 577016,Josh,Acheampong,Acheampong,12535
-577114,Luis Guilherme,Lira dos Santos,L.Guilherme,
+577114,Luis Guilherme,Lira dos Santos,L.Guilherme,13026
 577725,Joshua,King,King,12410
 577974,Harry,Amass,Amass,12559
 578512,Miodrag,Pivaš,Pivas,
@@ -2271,6 +2275,7 @@ code,first_name,second_name,web_name,understat
 588796,Ismeal,Kabia,Kabia,13082
 589114,Zack,Nelson,Nelson,12188
 589507,Leon,Chiwome,Chiwome,12532
+590012,Caleb,Kporha,Kporha,13130
 590760,Daniel,Adu-Adjei,Adu-Adjei,11301
 591357,Ryan,Trevitt,Trevitt,11146
 591386,Treymaurice,Nyoni,Nyoni,12203
