@@ -17,6 +17,7 @@ with open(os.path.join("FBRef.csv"), "r", encoding="utf-8") as f:
 with requests.Session() as s:
     url = "https://fantasy.premierleague.com/api/bootstrap-static/"
     players = s.get(url).json()["elements"]
+    players = [x for x in players if x["element_type"] != 5]
 
 data = [["code", "first_name", "second_name", "web_name", "24-25"]]
 for p in players:
