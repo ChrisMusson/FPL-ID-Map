@@ -3,6 +3,8 @@ import os
 
 import requests
 
+SEASON = "25-26"
+
 
 def append_new_to_existing(filepath, new):
     with open(filepath, "a", encoding="utf-8", newline="") as f:
@@ -17,14 +19,13 @@ with open(os.path.join("FBRef.csv"), "r", encoding="utf-8") as f:
 with requests.Session() as s:
     url = "https://fantasy.premierleague.com/api/bootstrap-static/"
     players = s.get(url).json()["elements"]
-    players = [x for x in players if x["element_type"] != 5]
 
-data = [["code", "first_name", "second_name", "web_name", "24-25"]]
+data = [["code", "first_name", "second_name", "web_name", SEASON]]
 for p in players:
     data.append([p["code"], p["first_name"], p["second_name"], p["web_name"], p["id"]])
 data = [data[0]] + sorted(data[1:], key=lambda x: x[-1])
 
-with open(os.path.join("FPL", "24-25.csv"), "w", encoding="utf-8", newline="") as f:
+with open(os.path.join("FPL", f"{SEASON}.csv"), "w", encoding="utf-8", newline="") as f:
     writer = csv.writer(f)
     writer.writerows(data)
 
