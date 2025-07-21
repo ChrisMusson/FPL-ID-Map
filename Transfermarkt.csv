@@ -355,6 +355,7 @@ code,first_name,second_name,web_name,transfermarkt
 51934,Ron-Robert,Zieler,Zieler,21327
 51938,Marc,Albrighton,Albrighton,61560
 51940,David,De Gea Quintana,De Gea,59377
+51943,Václav,Hladký,Hladký,95795
 52153,Miguel,Britos,Britos,76799
 52287,Evandro,Goebel,Evandro,53359
 52484,Leon,Balogun,Balogun,56100
@@ -495,6 +496,7 @@ code,first_name,second_name,web_name,transfermarkt
 69752,Norberto,Murara Neto,Neto,111819
 69960,Philipp,Wollscheid,Wollscheid,53173
 71738,Marco,Stiepermann,Stiepermann,45760
+72147,Marco,Bizot,M.Bizot,124884
 72222,Mateusz,Klich,Klich,92738
 72681,Denis,Odoi,Odoi,59641
 73314,Willian José,Da Silva,Willian José,122155
@@ -688,6 +690,7 @@ code,first_name,second_name,web_name,transfermarkt
 97299,John,Stones,Stones,186590
 97485,Kevin,Wimmer,Wimmer,122675
 97615,Mike,van der Hoorn,van der Hoorn,187105
+97846,Alex,Cairns,Cairns,194386
 98745,Héctor,Bellerín,Bellerín,191217
 98747,Nick,Pope,Pope,192080
 98770,Ørjan,Nyland,Nyland,73517
@@ -837,6 +840,7 @@ code,first_name,second_name,web_name,transfermarkt
 121221,Ramiro,Funes Mori,Funes Mori,11111
 121570,Julian,Jeanvier,Jeanvier,134277
 121599,Abdoulaye,Doucouré,A.Doucouré,127187
+121709,Walter,Benítez,Benitez,296802
 122074,Marcus,Bettinelli,Bettinelli,116648
 122342,Emerson,Hyndman,Hyndman,223047
 122411,Cameron,Burgess,Burgess,255788
@@ -1015,11 +1019,13 @@ code,first_name,second_name,web_name,transfermarkt
 167191,Marcus,Myers-Harness,Harness,288323
 167199,Thomas,Partey,Partey,230784
 167473,José,Izquierdo,Izquierdo,147094
+167512,Luke,O'Nien,O'Nien,282939
 167522,Jordan,Hugill,Hugill,291544
 167541,Jack,Payne,Payne,278092
 167767,Robert Kenedy,Nunes do Nascimento,Kenedy,281404
 167789,Baily,Cargill,Cargill,293450
 167878,Ben,Osborn,Osborn,218087
+167887,Josh,Laurent,Laurent,314241
 167888,Joe,Lumley,Lumley,336367
 168035,Fred,Onyedinma,Onyedinma,305274
 168090,Mahmoud,Dahoud,Dahoud,191422
@@ -1067,6 +1073,7 @@ code,first_name,second_name,web_name,transfermarkt
 171314,Rúben,Gato Alves Dias,Dias,258004
 171317,Rúben,da Silva Neves,Neves,225161
 171319,Renato,Sanches,Sanches,258027
+171422,Alan,Browne,Browne,277697
 171771,Jan,Bednarek,Bednarek,243028
 171975,Callum,Robinson,Callum Robinson,183299
 171982,Brian,Lenihan,Lenihan,241916
@@ -1101,6 +1108,7 @@ code,first_name,second_name,web_name,transfermarkt
 174292,Marco,Asensio,M.Asensio,296622
 174310,Elijah,Adebayo,Adebayo,319900
 174590,Jacob,Maddox,Maddox,314268
+174592,Marcus,Edwards,Edwards,314367
 174593,Kyle,Edwards,Edwards,314366
 174594,Lukas,Nmecha,Nmecha,314288
 174595,Admiral,Muskwe,Muskwe,314378
@@ -1273,6 +1281,7 @@ code,first_name,second_name,web_name,transfermarkt
 203368,Frédéric,Guilbert,Guilbert,354352
 203389,Nathan,Tella,Tella,340322
 204043,Arthur Henrique,Ramos de Oliveira Melo,Arthur,362842
+204120,Olivier,Boscagli,Boscagli,318508
 204214,Pervis,Estupiñán,Estupiñán,349599
 204216,Keshi,Anderson,Anderson,353674
 204380,Juninho,Bacuna,Bacuna,348863
@@ -1387,6 +1396,7 @@ code,first_name,second_name,web_name,transfermarkt
 216051,Diogo,Dalot Teixeira,Dalot,357147
 216054,Rúben,Nascimento Vinagre,Vinagre,357158
 216058,Domingos,Quina,Quina,391719
+216094,Jeremie,Frimpong,Frimpong,484547
 216183,Brahim,Diaz,Diaz,314678
 216208,Matija,Šarkić,Šarkić,293257
 216554,Sam,Hughes,Hughes,395797
@@ -1402,6 +1412,7 @@ code,first_name,second_name,web_name,transfermarkt
 218031,Çaglar,Söyüncü,Söyüncü,320141
 218112,Jason,Lokilo,Lokilo,325200
 218218,Wout,Faes,Faes,292808
+218364,Borna,Sosa,Sosa,293194
 218430,Gonzalo,Montiel,G.Montiel,402733
 218997,Ellis,Simms,Simms,511550
 219002,Dodi,Lukebakio,Lukebakio,303259
@@ -1470,6 +1481,7 @@ code,first_name,second_name,web_name,transfermarkt
 223332,Faustino,Anjorin,Anjorin,433181
 223333,Louie,Watson,Watson,505548
 223335,Sylvester,Jasper,Jasper,502074
+223336,Dan,Neil,Neil,570336
 223337,Jamie,Bowden,Bowden,504051
 223340,Bukayo,Saka,Saka,433177
 223349,Indiana,Vassilev,Vassilev,469860
@@ -1477,6 +1489,7 @@ code,first_name,second_name,web_name,transfermarkt
 223541,Federico,Chiesa,Chiesa,341092
 223723,Takehiro,Tomiyasu,Tomiyasu,331560
 223824,Reece,Hannam,Hannam,503241
+223827,Daniel,Ballard,Ballard,503686
 223911,Chris,Mepham,Mepham,480987
 224024,Lucas,Tolentino Coelho de Lima,Paquetá,444523
 224068,Matt,Turner,Turner,425306
@@ -1543,12 +1556,14 @@ code,first_name,second_name,web_name,transfermarkt
 232427,Rekeem,Harper,Harper,456877
 232456,Dilan,Markanday,Markanday,530807
 232477,Elliot,Thorpe,Thorpe,496661
+232571,Anthony,Patterson,Patterson,475946
 232620,Lewis,Brunt,Brunt,533657
 232653,Jacob,Ramsey,Ramsey,503749
 232667,Akin,Famewo,Famewo,425713
 232787,Conor,Gallagher,Gallagher,488362
 232792,Tariq,Lamptey,Lamptey,504148
 232797,Kayne,Ramsay,Ramsay,530879
+232820,Joe,Anderson,Anderson,511551
 232826,Anthony,Gordon,Gordon,503733
 232829,Kyle,John,John,504507
 232859,Djed,Spence,Spence,483348
@@ -1582,6 +1597,7 @@ code,first_name,second_name,web_name,transfermarkt
 235599,Nikola,Tavares,Tavares,487428
 235640,Harry,Boyes,Boyes,746778
 235674,Manor,Solomon,Solomon,396638
+235826,Joël,Piroe,Piroe,369962
 240143,Ibrahima,Diallo,Diallo,413032
 240299,Joseph,Hodge,Hodge,503975
 240499,Daniel,Batty,Batty,509268
@@ -1606,6 +1622,7 @@ code,first_name,second_name,web_name,transfermarkt
 243343,Jake,Cain,Cain,565420
 243345,Lewis,O'Brien,O'Brien,560694
 243505,Jakub,Moder,Moder,384461
+243526,Gabriel,Gudmundsson,Gudmundsson,362108
 243531,Andrew,Eleftheriou,Eleftheriou,476532
 243532,Dion,Pereira,Pereira,499604
 243557,Moussa,Diaby,Diaby,395516
@@ -1648,6 +1665,7 @@ code,first_name,second_name,web_name,transfermarkt
 247412,Jørgen,Strand Larsen,Strand Larsen,429983
 247632,Pedro,Lomba Neto,Neto,487465
 247664,Terry,Ablade,Ablade,434015
+248056,Tanaka,Ao,Tanaka,489359
 248164,Viljami,Sinisalo,Sinisalo,484838
 248853,Dynel,Simeu,Simeu,503976
 248854,Josh,Brooking,Brooking,566832
@@ -1685,6 +1703,7 @@ code,first_name,second_name,web_name,transfermarkt
 430992,Owen,Beck,Beck,551001
 431019,Karlo,Ziger,Ziger,526258
 431131,Moussa,Djenepo,Djenepo,485424
+431639,Zian,Flemming,Flemming,411537
 431774,Kyle,Taylor,Taylor,562254
 431924,Daniel,Adshead,Adshead,532464
 431960,Bendegúz,Bolla,Bolla,439351
@@ -1704,17 +1723,21 @@ code,first_name,second_name,web_name,transfermarkt
 432987,Vítezslav,Jaros,Jaros,486604
 432990,Yasser,Larouci,Larouci,554251
 433019,Liam,Hughes,Hughes,494284
+433036,Tijjani,Reijnders,Reijnders,460939
 433138,Marc,Leonard,Leonard,463751
 433154,Dwight,McNeil,McNeil,584769
 433312,Marshall,Munetsi,Munetsi,414908
 433589,Haydon,Roberts,Roberts,533523
 433590,Cody,Drameh,Drameh,531957
+433952,Largie,Ramazani,Ramazani,518644
 433979,Cameron,Archer,Archer,533662
 434024,Patrik,Gunnarsson,Gunnarsson,429563
 434043,Alex,Robertson,Robertson,609887
 434044,Cieran,Slicker,Slicker,621997
 434138,Jordan,Stevens,Stevens,533913
+434399,Reinildo,Mandava,Reinildo,240692
 434662,Halil,Dervişoğlu,Dervişoğlu,465606
+434752,Jaka,Bijol,Bijol,371851
 435973,Lyle,Foster,Foster,467623
 436234,Bryan,Gil Salvatierra,Bryan,537382
 436680,Jakub,Stolarczyk,Stolarczyk,486144
@@ -1723,9 +1746,11 @@ code,first_name,second_name,web_name,transfermarkt
 437476,Braian,Ojeda Rodríguez,Ojeda,491596
 437495,Illan,Meslier,Meslier,542586
 437499,Maxence,Lacroix,Lacroix,434224
+437505,Wilson,Isidor,Isidor,494237
 437626,Nuno,Varela Tavares,Tavares,535955
 437688,Lewis,Richards,Richards,571827
 437730,Antoine,Semenyo,Semenyo,583255
+437738,Sebastiaan,Bornauw,Bornauw,338629
 437742,Albert,Sambi Lokonga,Sambi,381967
 437748,Mike,Trésor,M.Trésor,381963
 437753,Giulian,Biancone,Biancone,536507
@@ -1751,6 +1776,7 @@ code,first_name,second_name,web_name,transfermarkt
 440241,Jensen,Weir,Weir,520651
 440323,Armando,Broja,Broja,571743
 440854,Jakub,Kiwior,Kiwior,425918
+440955,Nazarii,Rusyn,Rusyn,366729
 440993,Iliman,Ndiaye,Ndiaye,623570
 441024,Harrison,Ashby,Ashby,559130
 441164,Pedro,Porro,Pedro Porro,553875
@@ -1810,6 +1836,7 @@ code,first_name,second_name,web_name,transfermarkt
 448496,Ed,Turns,Turns,580809
 448514,Rayan,Aït-Nouri,Aït-Nouri,578391
 448791,Harvey,White,White,581598
+449027,Giorgi,Mamardashvili,Mamardashvili,502676
 449133,Harvey,Griffiths,Griffiths,670558
 449429,Jacob,Greaves,Greaves,693095
 449434,Anthony,Elanga,Elanga,583189
@@ -1820,6 +1847,7 @@ code,first_name,second_name,web_name,transfermarkt
 449974,Lukas,Jensen,Jensen,581890
 449988,Fabio,Silva,Fabio Silva,505653
 450070,Crysencio,Summerville,Summerville,474701
+450072,Shurandy,Sambo,Sambo,412937
 450197,George,Shelvey,G.Shelvey,565684
 450314,Matthew,Daly,Daly,566349
 450434,Deniz,Undav,Undav,339314
@@ -1835,6 +1863,7 @@ code,first_name,second_name,web_name,transfermarkt
 451302,Altay,Bayindir,Altay,336077
 451310,Jonathan,Tomkinson,Tomkinson,696762
 451340,Kaoru,Mitoma,Mitoma,504849
+451432,David,Mota Veiga Teixeira do Carmo,David Carmo,498237
 453537,Carlos,Mendes Gomes,Mendes,588412
 454667,Jens,Cajuste,Cajuste,468066
 455084,Leif,Davis,Davis,596446
@@ -1898,6 +1927,7 @@ code,first_name,second_name,web_name,transfermarkt
 463748,Karl,Hein,Hein,493513
 463903,Jesper,Lindstrøm,Lindstrøm,513245
 463912,Elia,Caprile,Caprile,421873
+463936,Jamie,Bynoe-Gittens,Gittens,670882
 463981,James,Hill,Hill,611793
 464353,Harvey,Davies,H.Davies,706815
 464618,Liam,McCarron,McCarron,614082
@@ -1909,7 +1939,10 @@ code,first_name,second_name,web_name,transfermarkt
 465572,Reda,Khadra,Khadra,405686
 465607,Anssumane,Fati Vieira,Ansu Fati,466810
 465694,Nico,González,N.Gonzalez,466805
+465702,Timothée,Pembélé,Pembele,538998
+465730,Maxim,De Cuyper,De Cuyper,429915
 465920,Mykhailo,Mudryk,Mudryk,537860
+466052,Rayan,Cherki,Cherki,607223
 466075,Riccardo,Calafiori,Calafiori,502821
 466117,Naouirou,Ahamada,Ahamada,538971
 466404,Andrew,Omobamidele,Omobamidele,621993
@@ -1923,6 +1956,7 @@ code,first_name,second_name,web_name,transfermarkt
 469142,Jan Paul,van Hecke,Van Hecke,576314
 469247,Samuel,Iling-Junior,Iling Jr,581672
 469249,Nohan,Kenneh,Kenneh,581677
+469272,Loum,Tchaouna,Tchaouna,607226
 470255,Caleb,Taylor,Taylor,671074
 470294,Darko,Gyabi,Gyabi,663264
 470296,Jeremiah,Chilokoa-Mullen,Chilokoa-Mullen,719681
@@ -1959,6 +1993,7 @@ code,first_name,second_name,web_name,transfermarkt
 477580,Illia,Zabarnyi,Zabarnyi,659089
 477717,Maxime,Esteve,Estève,842341
 477733,Radek,Vítek,Vítek,622236
+477851,Abdoullah,Ba,Ba,654412
 478028,Kayky da Silva,Chagas,Kayky,668265
 478227,Stefan,Parkes,Parkes,657724
 478449,Kyron,Gordon,Gordon,746734
@@ -1975,24 +2010,29 @@ code,first_name,second_name,web_name,transfermarkt
 481510,Victor,Kristiansen,Kristiansen,564529
 481624,Jaden,Philogene-Bidace,Philogene-Bidace,665390
 481626,Christian,Marques,Marques,539807
+481655,Martín,Zubimendi Ibáñez,Zubimendi,423440
 482158,Lucas,Bergström,Bergström,490606
 482442,Pape Matar,Sarr,Sarr,568693
 482609,Malo,Gusto,Gusto,620322
 482769,Máximo,Perrone,Perrone,668547
+482973,Igor Jesus,Maciel da Cruz,Igor Jesus,432164
 483081,Rodrigo,Martins Gomes,R.Gomes,667121
 483364,Krisztián,Hegyi,Hegyi,543726
 483365,Jonathan,Rowe,Rowe,672381
 483391,Luke,McNally,McNally,535927
 483398,Matthew,Whittingham,Whittingham,908798
+484420,Enzo,Le Fée,E.Le Fée,633992
 484658,Kacper,Kozłowski,Kozłowski,554284
 485047,Felipe,Rodrigues da Silva,Morato,673492
 485055,Antonín,Kinsky,Kinsky,725912
 486385,Norberto Bercique,Gomes Betuncal,Beto,595809
+486520,Ilia,Gruev,Gruev,381753
 486623,Sean,McAllister,McAllister,720720
 486672,Moisés,Caicedo Corozo,Caicedo,687626
 486870,Frederik,Alves,Alves,542690
 487053,Destiny,Udogie,Udogie,556385
 487117,Evan,Ferguson,Ferguson,648046
+487676,Trai,Hume,Hume,515544
 487693,Devan,Tanton,Tanton,745452
 487702,Luca,Koleosho,Koleosho,745461
 487818,Joseph,Whitworth,Whitworth,670840
@@ -2005,13 +2045,16 @@ code,first_name,second_name,web_name,transfermarkt
 488404,Facundo,Pellistri Rebollo,Pellistri,676318
 488439,Woyo,Coulibaly,Coulibaly,592975
 488464,Caleb,Wiley,Wiley,746833
+489571,Etienne,Green,Green,696849
 489580,Calvin,Ramsay,Ramsay,633652
 489639,Bart,Verbruggen,Verbruggen,565093
 489706,Justin,Devenny,Devenny,747009
+490000,Blondy,Nna Noukeu,Nna Noukeu,696892
 490094,Tim,Iroegbunam,Iroegbunam,696589
 490095,Ty,Barnett,Barnett,751666
 490098,Kaine,Hayden,Hayden,626888
 490138,Jakub,Ojrzynski,Ojrzynski,540630
+490142,Freddie,Potts,Potts,698164
 490145,Dane,Scarlett,Scarlett,670883
 490146,Jay,Stansfield,Stansfield,696346
 490150,Michael,Ndiweni,Ndiweni,698151
@@ -2022,6 +2065,7 @@ code,first_name,second_name,web_name,transfermarkt
 490881,Toby,Collyer,Collyer,654253
 490885,George,Earthy,Earthy,697280
 490887,Zach,Awe,Awe,697282
+491007,Dário,Luís Essugo,D.Essugo,670717
 491008,Diogo,Pinheiro Monteiro,Monteiro,670713
 491011,Diego Manuel Jadon,da Silva Moreira,Diego Moreira,655006
 491012,Youssef,Ramalho Chermiti,Y. Chermiti,670688
@@ -2037,6 +2081,7 @@ code,first_name,second_name,web_name,transfermarkt
 491785,Harvey,Vale,Vale,581675
 491970,Bobby,Clark,Clark,712117
 492066,Niall,Huggins,Huggins,559801
+492368,Isaac,Schmidt,Schmidt,449597
 492373,Charlie,Cresswell,Cresswell,597659
 492374,Jack,Jenkins,Jenkins,734375
 492776,Dexter,Lembikisa,Lembikisa,712099
@@ -2050,16 +2095,21 @@ code,first_name,second_name,web_name,transfermarkt
 493250,Amad,Diallo,Amad,536835
 493347,Denis,Franchi,Franchi,606576
 493736,Jimmy,Morgan,Morgan,936867
+493837,Jay,Matete,Matete,535479
 493928,Marcelo,Flores,Flores,668495
 493934,Kwadwo,Baah,Baah,711247
 494041,Ethan,Brierley,Brierley,718250
 494307,Max,Alleyne,Alleyne,843595
+494521,Adrien,Truffert,Truffert,654539
 494541,Kamari,Doyle,Doyle,864480
 494543,Dominic,Ballard,Ballard,864496
 494551,Jayden,Moore,Moore,1122027
+494595,Florian,Wirtz,Wirtz,598577
 494779,Albert,Grønbæk,Grønbæk,503866
+494960,Quilindschy,Hartman,Hartman,514285
 495024,Jay,Robinson,Jay Robinson,1045124
 495145,Alex,Paulsen,Paulsen,617009
+495161,Marko,Stamenić,Stamenic,617018
 495542,Niels,Nkounkou,Nkounkou,591193
 496178,Roman,Dixon,Dixon,856479
 496179,Alfie,Devine,Devine,728734
@@ -2089,6 +2139,7 @@ code,first_name,second_name,web_name,transfermarkt
 500052,Luca,Barrington,Barrington,745689
 500058,Jayden,Danns,Danns,939290
 500267,Loïc,Badé,Badé,730581
+500696,Nectarios,Triantis,Triantis,957224
 500926,Ronnie,Edwards,Edwards,732165
 501284,Michael,Olakigbe,Olakigbe,734425
 501468,Tayo,Adaramola,Adaramola,724529
@@ -2148,6 +2199,7 @@ code,first_name,second_name,web_name,transfermarkt
 514356,Roméo,Lavia,Lavia,628451
 514362,Temple,Ojinnaka,Ojinnaka,813142
 514514,Lewis,Koumas,Koumas,922462
+514613,Zak,Johnson,Johnson,827440
 515023,Matthew,Dibley-Dias,Dibley-Dias,817611
 515024,Luke,Harris,Harris,817612
 515496,Owen,Goodman,Goodman,814848
@@ -2160,6 +2212,7 @@ code,first_name,second_name,web_name,transfermarkt
 515599,Tommi,O'Reilly,O'Reilly,818237
 515621,Chadi,Riad Dnanou,Chadi Riad,689637
 516159,Oliwier,Zych,Zych,555074
+516211,Abdallah,Sima,Sima,776798
 516250,Jacob,Wright,Wright,983702
 516432,Valintino,Adedokun,Adedokun,747996
 516874,Charles,Sagoe,Sagoe,796037
@@ -2170,6 +2223,7 @@ code,first_name,second_name,web_name,transfermarkt
 517179,Alfie,Pond,Pond,821522
 517995,Leo,Castledine,Castledine,796303
 517996,Ronnie,Stutter,Stutter,825024
+518030,Max,Weiß,Weiss,829299
 518199,Fabian,Mrozek,Mrozek,678402
 518438,Kaelan,Casey,Casey,845321
 518442,Lewis,Orford,Orford,845809
@@ -2186,6 +2240,8 @@ code,first_name,second_name,web_name,transfermarkt
 519325,Habeeb,Ogunneye,Ogunneye,864788
 519327,George,Abbott,Abbott,907215
 519328,Callum,Scanlon,Scanlon,796298
+519634,Jenson,Seelt,Seelt,617755
+519895,Oliver,Sonne,Sonne,541628
 520295,David Datro,Fofana,D.D.Fofana,787232
 521966,Finley,Munroe,Munroe,845723
 523700,Daniel,Jebbison,Jebbison,746740
@@ -2227,6 +2283,7 @@ code,first_name,second_name,web_name,transfermarkt
 535928,Stefan,Bajcetic,Bajcetic,864799
 536109,Oliver,Scarles,Scarles,922563
 536110,Josh,Feeney,Feeney,875929
+536119,Charlie,Crew,Crew,883539
 536238,Ishé,Samuels-Smith,Samuels-Smith,922698
 536241,Martin,Sherif,Sherif,922695
 536677,Detlef Esapa,Osong,Osong,921532
@@ -2243,10 +2300,13 @@ code,first_name,second_name,web_name,transfermarkt
 539721,Ruairi,McConville,McConville,701021
 541462,Matai,Akinmboni,Akinmboni,994604
 543158,Valentín,Barco,Barco,849410
+543295,Antoni,Milambo,Milambo,683620
 544877,Milos,Kerkez,Kerkez,730861
 545477,Alex,Murphy,A.Murphy,900601
 545508,Joseph,O'Brien-Whitmarsh,O'Brien-Whitmarsh,741228
+547027,Habib,Diarra,Diarra,876631
 547037,Jack,Fletcher,Fletcher,1011140
+547410,Harrison,Jones,H.Jones,937840
 547659,Josh,Powell,Powell,855279
 547668,Axel,Piesold,Piesold,907219
 547673,Charlie,Robinson,C.Robinson,921992
@@ -2263,14 +2323,21 @@ code,first_name,second_name,web_name,transfermarkt
 549014,Noël,Atom,Atom,913214
 549067,Zach,Abbott,Abbott,933017
 549068,Omari,Kellyman,Kellyman,926135
+549074,Tom,Watson,Watson,933018
+549329,Lucas,Pires Silva,Lucas Pires,927768
 549344,Sam,Curtis,Curtis,741267
 549640,Michael,Golding,Golding,936842
+549912,Chemsdine,Talbi,Talbi,743384
+549939,Mike,Penders,Penders,834397
+550090,Diego,Coppola,Coppola,660860
 550141,Adrian,Mazilu,Mazilu,723835
 550596,Dominic,Sadi,Sadi,936901
 550615,Tyrique,George,George,936874
 550833,Noha,Lemina,N.Lemina,816124
 550839,Wilson,Odobert,Odobert,743498
 550864,Leny,Yoro,Yoro,923831
+551153,Luís Hemir,Silva Semedo,Luís Hemir,840687
+551206,Jaydon,Banel,Banel,706889
 551221,Tommy,Setford,Setford,848753
 551226,Mateus Gonçalo,Espanha Fernandes,M.Fernandes,880245
 551230,Renato,Palma Veiga,Renato Veiga,805714
@@ -2279,21 +2346,26 @@ code,first_name,second_name,web_name,transfermarkt
 552030,Aidan,Francis-Clarke,Francis-Clarke,802230
 552425,Sydie,Peck,Peck,745851
 552427,Will,Lankshear,Lankshear,879768
+553299,Takai,Kōta,Takai,671108
 554194,Jahmai,Simpson-Pusey,Simpson-Pusey,942497
+554197,Chris,Rigg,Rigg,947411
 554605,Dean,Huijsen,Huijsen,890290
 556639,Jayce,Fitzgerald,Fitzgerald,964690
 559684,Jack,Moorhouse,Moorhouse,953933
 559962,Jamaldeen,Jimoh,Jimoh,954105
 559963,Kiano,Dyer,Dyer,954125
 560248,Bastien,Meupiyou,Meupiyou,955253
+560262,Eli Junior,Kroupi,Kroupi.Jr,955357
 563324,Brayden,Clarke,Clarke,1005844
 563883,Vincent,Angelini,Angelini,736251
 563934,Tyrese,Hall,Hall,965971
+564406,Eliezer,Mayenda Dossou,Mayenda,967346
 564505,Sam,Proctor,Proctor,1004709
 564510,Garang,Kuol,Kuol,967948
 565297,Mateo Joseph,Fernández,Mateo Joseph,834742
 565431,Callum,Marshall,Marshall,953135
 565858,Killian,Cahill,Cahill,745716
+566164,Sverre,Nypan,Nypan,911736
 567119,Shumaira,Mheuka,Mheuka,982097
 567121,Joe,Knight,Knight,978668
 568791,Callan,McKenna,McKenna,983248
@@ -2304,15 +2376,20 @@ code,first_name,second_name,web_name,transfermarkt
 573808,Jack,Grieves,Grieves,974327
 574398,Franco,Umeh-Chibueze,Umeh-Chibueze,943560
 574402,Mark,O’Mahony,O’Mahony,943549
+574458,Mamadou,Sarr,M.Sarr,910905
 574799,Damola,Ajayi,Ajayi,999745
 575034,Ethan,Wheatley,Wheatley,888639
 575204,Claudio,Echeverri,Echeverri,994536
+575458,Jair,Paula da Cunha Filho,Jair Cunha,984096
 575476,Murillo,Santiago Costa dos Santos,Murillo,1005649
 575901,Julio,Soler,Soler,1009658
+576323,Oluwaseun,Adewumi,Adewumi,982081
 576637,Godwill,Kukonki,Kukonki,1184841
+576756,Zépiqueno,Redmond,Redmond,765972
 576980,Zach,Marsh,Marsh,1004679
 577016,Josh,Acheampong,Acheampong,1004708
 577114,Luis Guilherme,Lira dos Santos,L.Guilherme,991800
+577669,Noah,Sadiki,Sadiki,727089
 577725,Joshua,King,King,1011131
 577731,Ben,Broggio,Broggio,985544
 577974,Harry,Amass,Amass,1011738
@@ -2322,6 +2399,9 @@ code,first_name,second_name,web_name,transfermarkt
 578614,Enock,Agyei,Agyei,724041
 579075,Asher,Agbinone,Agbinone,1047256
 585472,Ryan,Oné,Oné,1031293
+586268,Ármin,Pécsi,Pécsi,933215
+586309,Thierno,Barry,Barry,937941
+587178,Yasin,Özcan,Yasin,1043003
 588555,Elyh,Harrison,Harrison,1013690
 588793,Maldini,Kacurri,Kacurri,903189
 588796,Ismeal,Kabia,Kabia,964561
@@ -2355,6 +2435,7 @@ code,first_name,second_name,web_name,transfermarkt
 602903,Ezra,Mayers,Mayers,1107726
 602934,Fletcher,Holman,Holman,1080392
 604988,Freddie,Simmonds,Freddie Simmonds,1120418
+606689,Romelle,Donovan,Donovan,1091562
 606745,Ayden,Heaven,Heaven,1078163
 606774,Remy,Rees-Dottin,Rees-Dottin,1089802
 606775,Ben,Winterburn,Winterburn,854721
@@ -2362,16 +2443,22 @@ code,first_name,second_name,web_name,transfermarkt
 606921,Romain,Esse,Esse,967319
 607464,Michael,Kayode,Kayode,823486
 608060,Jayden,Luker,Luker,1088817
+608181,Stefanos,Tzimas,Tzimas,950091
 609640,Mathis,Amougou,Amougou,1010854
 609873,Harrison,Armstrong,Armstrong,1107733
+610799,Luka,Vušković,Vuskovic,892160
 611011,Joseph,Johnson,Johnson,1088818
+611134,Kendry,Páez Andrade,Paez,1052439
+611695,Malick,Yalcouyé,Yalcouye,1178758
 611917,Luca,Williams-Barnett,Williams-Barnett,1108475
 611920,Malachi,Hardy,Hardy,1108465
 611926,Amara,Nallo,Nallo,1108049
+611975,Ahmed,Abdullahi,Abdullahi,1015619
 612534,Benjamin,Fredrick,Fredrick,1071138
 612855,Ibrahim,Osman,I.Osman,1110406
 613120,Spike,Brits,Brits,1080903
 613467,Wesley,Okoduwa,Okoduwa,1115502
+613804,El Hadji Malick,Diouf,Diouf,1111589
 616059,Jack,Porter,Porter,1131973
 616094,Dovydas,Sasnauskas,Sasnauskas,1108667
 616222,Vitor,de Oliveira Nunes dos Reis,Vitor Reis,1005575
@@ -2382,13 +2469,19 @@ code,first_name,second_name,web_name,transfermarkt
 622536,Benjamin,Arthur,Arthur,1144158
 622758,Aaron,Anselmino,Anselmino,1145504
 623095,Min-Hyeok,Yang,Yang,1004327
+624773,Estêvão,Almeida de Oliveira Gonçalves,Estêvão,1056993
 626464,Gustavo,Nunes Fernandes Gomes,G.Nunes,1086375
+626844,Milan,Aleksić,Aleksić,942738
 628204,Yunus,Konak,Konak,1141628
 630664,Jake,Evans,Jake Evans,1171764
 632822,Archie,Harris,Harris,963879
 634640,Christian,Chigozie,Chigozie,1225825
+640108,Antoñito,Cordero Campillo,Antoñito C.,1178393
 641221,Pedro,Cardoso de Lima,Pedro Lima,1193867
+643135,Fer,López González,Fer López,1064471
 646754,Lander,Emery,Emery,1237073
 647597,Dominic,Dos Santos Martins,Martins,1203143
 647671,Mateus,Mané,Mané,1230661
+647850,Charalampos,Kostoulas,Kostoulas,1060087
 649208,Jeremy,Monga,Monga,1245948
+661712,Diego,León Blanco,D.Leon,1283997
