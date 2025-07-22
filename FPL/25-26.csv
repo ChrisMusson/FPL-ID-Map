@@ -1,0 +1,659 @@
+code,first_name,second_name,web_name,25-26
+154561,David,Raya Martín,Raya,1
+109745,Kepa,Arrizabalaga Revuelta,Arrizabalaga,2
+463748,Karl,Hein,Hein,3
+551221,Tommy,Setford,Setford,4
+226597,Gabriel,dos Santos Magalhães,Gabriel,5
+462424,William,Saliba,Saliba,6
+466075,Riccardo,Calafiori,Calafiori,7
+445122,Jurriën,Timber,J.Timber,8
+440854,Jakub,Kiwior,Kiwior,9
+499169,Myles,Lewis-Skelly,Lewis-Skelly,10
+198869,Benjamin,White,White,11
+206325,Oleksandr,Zinchenko,Zinchenko,12
+563324,Brayden,Clarke,Clarke,13
+588793,Maldini,Kacurri,Kacurri,14
+499167,Josh,Nichols,Nichols,15
+223340,Bukayo,Saka,Saka,16
+184029,Martin,Ødegaard,Ødegaard,17
+248857,Noni,Madueke,Madueke,18
+444145,Gabriel,Martinelli Silva,Martinelli,19
+116216,Leandro,Trossard,Trossard,20
+204480,Declan,Rice,Rice,21
+195384,Mikel,Merino Zazón,Merino,22
+438098,Fábio,Ferreira Vieira,Fábio Vieira,23
+128295,Christian,Nørgaard,Nørgaard,24
+499175,Ethan,Nwaneri,Nwaneri,25
+481655,Martín,Zubimendi Ibáñez,Zubimendi,26
+200641,Reiss,Nelson,Nelson,27
+588796,Ismeal,Kabia,Kabia,28
+437742,Albert,Sambi Lokonga,Sambi,29
+219847,Kai,Havertz,Havertz,30
+205651,Gabriel,Fernando de Jesus,G.Jesus,31
+98980,Emiliano,Martínez Romero,Martinez,32
+72147,Marco,Bizot,M.Bizot,33
+462492,Joe,Gauci,Gauci,34
+462381,Filip,Marschall,Marschall,35
+199796,Matty,Cash,Cash,36
+101188,Lucas,Digne,Digne,37
+199798,Ezri,Konsa Ngoyo,Konsa,38
+441302,Ian,Maatsen,Maatsen,39
+149484,Tyrone,Mings,Mings,40
+244954,Pau,Torres,Pau,41
+606798,Andrés,García,A.García,42
+106468,Álex,Moreno Lopera,Alex Moreno,43
+515597,Lamare,Bogarde,Bogarde,44
+514315,Lino,da Cruz Sousa,Sousa,45
+587178,Yasin,Özcan,Yasin,46
+244850,Morgan,Rogers,Rogers,47
+166989,Youri,Tielemans,Tielemans,48
+215711,Leon,Bailey,Bailey,49
+195546,Emiliano,Buendía Stati,Buendía,50
+469247,Samuel,Iling-Junior,Iling Jr,51
+232653,Jacob,Ramsey,J.Ramsey,52
+204646,Donyell,Malen,Malen,53
+122806,John,McGinn,McGinn,54
+88894,Ross,Barkley,Barkley,55
+491287,Enzo,Barrenechea,Barrenechea,56
+461421,Lewis,Dobbin,Dobbin,57
+226944,Boubacar,Kamara,Kamara,58
+449871,Amadou,Onana,Onana,59
+577731,Ben,Broggio,Broggio,60
+151589,Leander,Dendoncker,Dendoncker,61
+559962,Jamaldeen,Jimoh-Aloba,Jimoh-Aloba,62
+537403,Kadan,Young,Young,63
+178301,Ollie,Watkins,Watkins,64
+576756,Zépiqueno,Redmond,Redmond,65
+69752,Norberto,Murara Neto,Neto,66
+457569,Đorđe,Petrović,Petrović,67
+444172,Will,Dennis,Dennis,68
+568791,Callan,McKenna,McKenna,69
+495145,Alex,Paulsen,Paulsen,70
+477580,Illia,Zabarnyi,Zabarnyi,71
+221466,Marcos,Senesi Barón,Senesi,72
+54469,Adam,Smith,Smith,73
+494521,Adrien,Truffert,Truffert,74
+541462,Matai,Akinmboni,Akinmboni,75
+518906,Owen,Bevan,Bevan,76
+463981,James,Hill,Hill,77
+436893,Julián,Araujo Zúñiga,J.Araujo,78
+223911,Chris,Mepham,Mepham,79
+575901,Julio,Soler Barreto,Soler,80
+222683,Justin,Kluivert,Kluivert,81
+437730,Antoine,Semenyo,Semenyo,82
+533463,Dango,Ouattara,O.Dango,83
+201658,Marcus,Tavernier,Tavernier,84
+200785,Tyler,Adams,Adams,85
+111317,David,Brooks,Brooks,86
+158499,Ryan,Christie,Christie,87
+155408,Lewis,Cook,Cook,88
+168991,Philip,Billing,Philip,89
+503139,Alex,Scott,Scott,90
+224995,Luis,Sinisterra Lucumí,Sinisterra,91
+441240,Romain,Faivre,Faivre,92
+424044,Hamed,Traorè,H.Traorè,93
+550596,Dominic,Sadi,Sadi,94
+530121,Zain,Silcott-Duberry,Silcott-Duberry,95
+606775,Ben,Winterburn,Winterburn,96
+444102,Francisco Evanilson,de Lima Barbosa,Evanilson,97
+168636,Enes,Ünal,Enes Ünal,98
+590760,Daniel,Adu-Adjei,Adu-Adjei,99
+560262,Eli Junior,Kroupi,Kroupi.Jr,100
+200720,Caoimhín,Kelleher,Kelleher,101
+235448,Ellery,Balcombe,Balcombe,102
+503300,Matthew,Cox,Cox,103
+535017,Julian,Eyestone,Eyestone,104
+507433,Hákon Rafn,Valdimarsson,Valdimarsson,105
+432830,Nathan,Collins,Collins,106
+249231,Keane,Lewis-Potter,Lewis-Potter,107
+191866,Kristoffer,Ajer,Ajer,108
+194010,Rico,Henry,Henry,109
+607464,Michael,Kayode,Kayode,110
+231065,Ethan,Pinnock,Pinnock,111
+226956,Mads,Roerslev Rasmussen,Roerslev,112
+444765,Sepp,van den Berg,Van den Berg,113
+622536,Benjamin,Arthur,Arthur,114
+612534,Benjamin,Fredrick,Fredrick,115
+472713,Aaron,Hickey,Hickey,116
+570241,Kim,Ji-soo,Ji-soo,117
+499717,Jayden,Meghoma,Meghoma,118
+446008,Bryan,Mbeumo,Mbeumo,119
+513418,Kevin,Schade,Schade,120
+440089,Mikkel,Damsgaard,Damsgaard,121
+543295,Antoni,Milambo,Milambo,122
+244858,Fábio,Freitas Gouveia Carvalho,Carvalho,123
+56979,Jordan,Henderson,Henderson,124
+204580,Vitaly,Janelt,Janelt,125
+207283,Mathias,Jensen,Jensen,126
+626464,Gustavo,Nunes Fernandes Gomes,Nunes,127
+428580,Frank,Onyeka,Onyeka,128
+508395,Yehor,Yarmoliuk,Yarmoliuk,129
+606689,Romelle,Donovan,Donovan,130
+628204,Yunus Emre,Konak,Konak,131
+220695,Paris,Maghoma,Maghoma,132
+450539,Myles,Peart-Harris,Peart-Harris,133
+591357,Ryan,Trevitt,Trevitt,134
+216646,Yoane,Wissa,Wissa,135
+502500,Igor Thiago,Nascimento Rodrigues,Thiago,136
+533710,Iwan,Morgan,Morgan,137
+49262,Jason,Steele,Steele,138
+489639,Bart,Verbruggen,Verbruggen,139
+209288,Tom,McGill,McGill,140
+472739,Carl,Rushworth,Rushworth,141
+240514,Kjell,Scherpen,Scherpen,142
+204120,Olivier,Boscagli,Boscagli,143
+550090,Diego,Coppola,Coppola,144
+465730,Maxim,De Cuyper,De Cuyper,145
+83299,Lewis,Dunk,Dunk,146
+204214,Pervis,Estupiñán Tenorio,Estupiñan,147
+231416,Ferdi,Kadıoğlu,F.Kadıoğlu,148
+223434,Igor Julio,dos Santos de Paulo,Igor,149
+232792,Tariq,Lamptey,Lamptey,150
+469142,Jan Paul,van Hecke,Van Hecke,151
+111478,Joël,Veltman,Veltman,152
+110735,Adam,Webster,Webster,153
+439135,Eiran,Cashin,Cashin,154
+589100,Jacob,Slater,Slater,155
+547720,Charlie,Tasker,Tasker,156
+451340,Mitoma,Kaoru,Mitoma,157
+463067,Georginio,Rutter,Georginio,158
+109345,Solly,March,March,159
+592031,Yankuba,Minteh,Minteh,160
+474120,Julio,Enciso Espínola,Enciso,161
+513433,Brajan,Gruda,Gruda,162
+532529,Jack,Hinshelwood,Hinshelwood,163
+219249,Matt,O'Riley,O'Riley,164
+516211,Abdallah,Sima,Sima,165
+509416,Yasin,Ayari,Ayari,166
+535301,Carlos,Baleba,Baleba,167
+536916,Facundo,Buonanotte,Buonanotte,168
+514254,Diego,Gómez Amarilla,Gomez,169
+15157,James,Milner,Milner,170
+441192,Jeremy,Sarmiento Morante,Sarmiento,171
+549074,Tom,Watson,Watson,172
+467779,Mats,Wieffer,Wieffer,173
+611695,Malick,Yalcouyé,Yalcouye,174
+567121,Joe,Knight,Knight,175
+550141,Adrian,Mazilu,Mazilu,176
+513834,Andrew,Moran,Moran,177
+50175,Danny,Welbeck,Welbeck,178
+487117,Evan,Ferguson,Ferguson,179
+608181,Stefanos,Tzimas,Tzimas,180
+647850,Charalampos,Kostoulas,Kostoulas,181
+432720,James,Trafford,Trafford,182
+518030,Max,Weiß,Weiss,183
+489571,Etienne,Green,Green,184
+51943,Václav,Hladký,Hladký,185
+192290,Connor,Roberts,Roberts,186
+58621,Kyle,Walker,Walker,187
+247245,Hannes,Delcroix,Delcroix,188
+461567,Owen,Dodgson,Dodgson,189
+478969,Hjalmar,Ekdal,Ekdal,190
+477717,Maxime,Estève,Estève,191
+494960,Quilindschy,Hartman,Hartman,192
+461188,Bashir,Humphreys,Humphreys,193
+241231,Jordan,Beyer,Jordan,194
+549329,Lucas,Pires Silva,Lucas Pires,195
+450072,Shurandy,Sambo,Sambo,196
+519895,Oliver,Sonne,Sonne,197
+180804,Axel,Tuanzebe,Tuanzebe,198
+208912,Joe,Worrall,Worrall,199
+444180,Jaidon,Anthony,Anthony,200
+183751,Manuel,Benson Hedilazio,Benson,201
+179458,Jacob,Bruun Larsen,Bruun Larsen,202
+578614,Enock,Agyei,Boateng,203
+250735,Darko,Churlinov,Churlinov,204
+172567,Josh,Cullen,Cullen,205
+174592,Marcus,Edwards,Edwards,206
+465527,Hannibal,Mejbri,Hannibal,207
+487702,Luca,Koleosho,Koleosho,208
+167887,Josh,Laurent,Laurent,209
+469272,Loum,Tchaouna,Tchaouna,210
+447715,Aaron,Ramsey,A.Ramsey,211
+576323,Oluwaseun,Adewumi,Adewumi,212
+551206,Jaydon,Banel,Banel,213
+437748,Mike,Trésor Ndayishimiye,Trésor,214
+431639,Zian,Flemming,Flemming,215
+492831,Zeki,Amdouni,Amdouni,216
+435973,Lyle,Foster,Foster,217
+44699,Ashley,Barnes,Barnes,218
+220598,Michael,Obafemi,Obafemi,219
+215059,Robert,Lynch Sánchez,Sánchez,220
+508479,Filip,Jörgensen,Jörgensen,221
+549939,Mike,Penders,Penders,222
+471798,Gabriel,Słonina,Slonina,223
+179268,Marc,Cucurella Saseta,Cucurella,224
+225796,Reece,James,James,225
+180736,Trevoh,Chalobah,Chalobah,226
+460028,Levi,Samuels Colwill,Colwill,227
+482609,Malo,Gusto,Gusto,228
+242880,Benoît,Badiashile Mukinayi,B.Badiashile,229
+444463,Wesley,Fofana,Fofana,230
+574458,Mamadou,Sarr,M.Sarr,231
+109646,Tosin,Adarabioyo,Tosin,232
+577016,Josh,Acheampong,Acheampong,233
+622758,Aarón,Anselmino,Anselmino,234
+244851,Cole,Palmer,Palmer,235
+247632,Pedro,Lomba Neto,Neto,236
+448047,Enzo,Fernández,Enzo,237
+624773,Estêvão,Almeida de Oliveira Gonçalves,Estêvão,238
+463936,Jamie,Bynoe-Gittens,Gittens,239
+213198,Christopher,Nkunku,Nkunku,240
+486672,Moisés,Caicedo Corozo,Caicedo,241
+215413,Kiernan,Dewsbury-Hall,Dewsbury-Hall,242
+550615,Tyrique,George,George,243
+514356,Roméo,Lavia,Lavia,244
+465920,Mykhailo,Mudryk,Mudryk,245
+532605,Andrey,Nascimento dos Santos,Andrey Santos,246
+491007,Dário,Luís Essugo,D.Essugo,247
+611134,Kendry,Páez Andrade,Paez,248
+475168,João Pedro,Junqueira de Jesus,João Pedro,249
+463034,Liam,Delap,Delap,250
+517052,Nicolas,Jackson,N.Jackson,251
+499309,Marc,Guiu Paz,Marc Guiu,252
+172649,Dean,Henderson,Henderson,253
+121709,Walter,Benítez,Benitez,254
+169593,Remi,Matthews,Matthews,255
+247348,Daniel,Muñoz Mejía,Muñoz,256
+437499,Maxence,Lacroix,Lacroix,257
+244723,Tyrick,Mitchell,Mitchell,258
+218364,Borna,Sosa,Sosa,259
+209036,Marc,Guéhi,Guéhi,260
+427623,Chris,Richards,Richards,261
+515621,Chadi,Riad Dnanou,Chadi Riad,262
+57328,Nathaniel,Clyne,Clyne,263
+156074,Rob,Holding,Holding,264
+590012,Caleb,Kporha,Kporha,265
+232413,Eberechi,Eze,Eze,266
+232185,Ismaïla,Sarr,Sarr,267
+438464,Cheick,Doucouré,Doucouré,268
+606921,Romain,Esse,Esse,269
+108413,Will,Hughes,Hughes,270
+209400,Daichi,Kamada,Kamada,271
+152551,Jefferson,Lerma Solís,Lerma,272
+496221,Adam,Wharton,Wharton,273
+579075,Asher,Agbinone,Agbinone,274
+466117,Naouirou,Ahamada,Ahamada,275
+489706,Justin,Devenny,Devenny,276
+450535,Malcolm,Ebiowei,Ebiowei,277
+450542,Jesurun,Rak-Sakyi,J.Rak-Sakyi,278
+536694,Matheus,França de Oliveira,M.França,279
+531989,David,Ozoh,Ozoh,280
+530318,Kaden,Rodney,Rodney,281
+574398,Franco,Umeh-Chibueze,Umeh,282
+231747,Jean-Philippe,Mateta,Mateta,283
+205533,Eddie,Nketiah,Nketiah,284
+199670,Odsonne,Édouard,Édouard,285
+576980,Zach,Marsh,Marsh,286
+111234,Jordan,Pickford,Pickford,287
+229600,Mark,Travers,Travers,288
+447325,Harry,Tyrer,Tyrer,289
+480455,Jarrad,Branthwaite,Branthwaite,290
+17761,James,Tarkowski,Tarkowski,291
+224967,Vitalii,Mykolenko,Mykolenko,292
+512462,Jake,O'Brien,O'Brien,293
+59949,Séamus,Coleman,Coleman,294
+106611,Michael,Keane,Keane,295
+243571,Nathan,Patterson,Patterson,296
+496178,Roman,Dixon,Dixon,297
+474907,Reece,Welch,Welch,298
+440993,Iliman,Ndiaye,Ndiaye,299
+433154,Dwight,McNeil,McNeil,300
+502697,Carlos,Alcaraz Durán,Alcaraz,301
+80801,Idrissa Gana,Gueye,Gana,302
+232928,James,Garner,Garner,303
+490094,Tim,Iroegbunam,Iroegbunam,304
+609873,Harrison,Armstrong,Armstrong,305
+547801,Callum,Bates,Bates,306
+504296,Coby,Ebere,Ebere,307
+496279,Isaac,Heath,Heath,308
+491557,Jenson,Metcalfe,Metcalfe,309
+586309,Thierno,Barry,Barry,310
+486385,Norberto Bercique,Gomes Betuncal,Beto,311
+491012,Youssef,Ramalho Chermiti,Y.Chermiti,312
+536241,Martin,Sherif,Sherif,313
+80201,Bernd,Leno,Leno,314
+428971,Steven,Benda,Benda,315
+169528,Antonee,Robinson,Robinson,316
+174874,Joachim,Andersen,Andersen,317
+232892,Calvin,Bassey,Bassey,318
+166477,Timothy,Castagne,Castagne,319
+219924,Issa,Diop,Diop,320
+246301,Jorge,Cuenca Barreno,J.Cuenca,321
+167074,Kenny,Tete,Tete,322
+591385,Samuel,Amissah,Amissah,323
+153133,Alex,Iwobi,Iwobi,324
+209289,Emile,Smith Rowe,Smith Rowe,325
+159533,Adama,Traoré Diarra,Adama,326
+156689,Andreas,Hoelgebaum Pereira,Andreas,327
+184349,Ryan,Sessegnon,Sessegnon,328
+153682,Harry,Wilson,Wilson,329
+207189,Sander,Berge,Berge,330
+76357,Tom,Cairney,Cairney,331
+212314,Saša,Lukić,Lukić,332
+573062,Martial,Godo,Godo,333
+515024,Luke,Harris,Harris,334
+577725,Josh,King,King,335
+153366,Harrison,Reed,Reed,336
+102057,Raúl,Jiménez Rodríguez,Raúl,337
+244042,Rodrigo,Muniz Carvalho,Muniz,338
+437495,Illan,Meslier,Meslier,339
+97846,Alex,Cairns,Cairns,340
+59735,Karl,Darlow,Darlow,341
+226182,Jayden,Bogle,Bogle,342
+222694,Pascal,Struijk,Struijk,343
+434752,Jaka,Bijol,Bijol,344
+437738,Sebastiaan,Bornauw,Bornauw,345
+113564,Sam,Byram,Byram,346
+243526,Gabriel,Gudmundsson,Gudmundsson,347
+214225,Joe,Rodon,Rodon,348
+492368,Isaac,Schmidt,Schmidt,349
+427637,Brenden,Aaronson,Aaronson,350
+492859,Wilfried,Gnonto,Gnonto,351
+221399,Jack,Harrison,Harrison,352
+200617,Daniel,James,James,353
+199598,Ethan,Ampadu,Ampadu,354
+248937,Sam,Greenwood,Greenwood,355
+486520,Ilia,Gruev,Gruev,356
+433952,Largie,Ramazani,Ramazani,357
+248056,Tanaka,Ao,Tanaka,358
+536119,Charlie,Crew,Crew,359
+462635,Joe,Gelhardt,Gelhardt,360
+470294,Darko,Gyabi,Gyabi,361
+235826,Joël,Piroe,Piroe,362
+106617,Patrick,Bamford,Bamford,363
+565297,Mateo,Joseph Fernández-Regatillo,Mateo Joseph,364
+174594,Lukas,Nmecha,Nmecha,365
+116535,Alisson,Becker,A.Becker,366
+449027,Giorgi,Mamardashvili,Mamardashvili,367
+586268,Ármin,Pécsi,Pécsi,368
+155503,Freddie,Woodman,Woodman,369
+216094,Jeremie,Frimpong,Frimpong,370
+544877,Milos,Kerkez,Kerkez,371
+122798,Andrew,Robertson,Robertson,372
+97032,Virgil,van Dijk,Virgil,373
+204716,Ibrahima,Konaté,Konaté,374
+492777,Conor,Bradley,Bradley,375
+171287,Joe,Gomez,Gomez,376
+214285,Konstantinos,Tsimikas,Tsimikas,377
+611926,Amara,Nallo,Nallo,378
+219937,Rhys,Williams,R.Williams,379
+489580,Calvin,Ramsay,Ramsay,380
+118748,Mohamed,Salah,M.Salah,381
+494595,Florian,Wirtz,Wirtz,382
+244731,Luis,Díaz Marulanda,Luis Díaz,383
+243298,Cody,Gakpo,Gakpo,384
+223541,Federico,Chiesa,Chiesa,385
+243016,Alexis,Mac Allister,Mac Allister,386
+424876,Dominik,Szoboszlai,Szoboszlai,387
+206915,Curtis,Jones,C.Jones,388
+444884,Harvey,Elliott,Elliott,389
+441266,Ryan,Gravenberch,Gravenberch,390
+496208,Ben,Doak,Doak,391
+158983,Endo,Wataru,Endo,392
+535928,Stefan,Bajčetić Maquieira,Bajcetic,393
+491501,James,McConnell,McConnell,394
+440148,Tyler,Morton,Morton,395
+591386,Trey,Nyoni,Nyoni,396
+447203,Darwin,Núñez Ribeiro,Darwin,397
+500058,Jayden,Danns,Danns,398
+121160,Ederson,Santana de Moraes,Ederson M.,399
+88248,Stefan,Ortega Moreno,Ortega Moreno,400
+122074,Marcus,Bettinelli,Bettinelli,401
+448514,Rayan,Aït-Nouri,Aït-Nouri,402
+477424,Joško,Gvardiol,Gvardiol,403
+211975,Manuel,Akanji,Akanji,404
+126184,Nathan,Aké,Aké,405
+578153,Abdukodir,Khusanov,Khusanov,406
+465351,Matheus,Nunes,Matheus N.,407
+171314,Rúben,dos Santos Gato Alves Dias,Rúben,408
+97299,John,Stones,Stones,409
+477064,Rico,Lewis,Lewis,410
+472769,Nico,O'Reilly,O’Reilly,411
+616222,Vitor,de Oliveira Nunes dos Reis,Vitor Reis,412
+438234,Omar,Marmoush,Marmoush,413
+209244,Phil,Foden,Foden,414
+510281,Sávio,Moreira de Oliveira,Savinho,415
+165809,Bernardo,Mota Veiga de Carvalho e Silva,Bernardo,416
+466052,Rayan,Cherki,Cherki,417
+248875,Jérémy,Doku,Doku,418
+114283,Jack,Grealish,Grealish,419
+59859,İlkay,Gündoğan,Gündoğan,420
+220566,Rodrigo 'Rodri',Hernandez Cascante,Rodrigo,421
+91651,Mateo,Kovačić,Kovačić,422
+465694,Nico,González Iglesias,N.Gonzalez,423
+477555,Oscar,Bobb,Bobb,424
+575204,Claudio,Echeverri,Echeverri,425
+432714,James,McAtee,McAtee,426
+433036,Tijjani,Reijnders,Reijnders,427
+566164,Sverre,Nypan,Nypan,428
+155405,Kalvin,Phillips,Phillips,429
+223094,Erling,Haaland,Haaland,430
+451302,Altay,Bayındır,Bayindir,431
+202641,André,Onana,Onana,432
+588555,Elyh,Harrison,Harrison,433
+21205,Tom,Heaton,Heaton,434
+461537,Dermot,Mee,Mee,435
+209365,Matthijs,de Ligt,De Ligt,436
+221820,Lisandro,Martínez,Martinez,437
+230001,Noussair,Mazraoui,Mazraoui,438
+661712,Diego,León Blanco,D.Leon,439
+216051,Diogo,Dalot Teixeira,Dalot,440
+596777,Patrick,Dorgu,Dorgu,441
+95658,Harry,Maguire,Maguire,442
+106760,Luke,Shaw,Shaw,443
+550864,Leny,Yoro,Yoro,444
+577974,Harry,Amass,Amass,445
+547676,Tyler,Fredricson,Fredricson,446
+606745,Ayden,Heaven,Heaven,447
+222690,Tyrell,Malacia,Malacia,448
+141746,Bruno,Borges Fernandes,B.Fernandes,449
+430871,Matheus,Santos Carneiro da Cunha,Cunha,450
+176297,Marcus,Rashford,Rashford,451
+493250,Amad,Diallo,Amad,452
+493105,Alejandro,Garnacho Ferreyra,Garnacho,453
+467169,Antony,dos Santos,Antony,454
+184341,Mason,Mount,Mount,455
+209243,Jadon,Sancho,Sancho,456
+61256,Carlos Henrique,Casimiro,Casemiro,457
+516895,Kobbie,Mainoo,Mainoo,458
+232112,Manuel,Ugarte Ribeiro,Ugarte,459
+490881,Toby,Collyer,Collyer,460
+556639,Jayce,Fitzgerald,Fitzgerald,461
+547037,Jack,Fletcher,J.Fletcher,462
+618873,Sékou,Koné,Kone,463
+559684,Jack,Moorhouse,Moorhouse,464
+497894,Rasmus,Højlund,Højlund,465
+458249,Joshua,Zirkzee,Zirkzee,466
+596047,Chido,Obi,Obi,467
+575034,Ethan,Wheatley,Wheatley,468
+98747,Nick,Pope,Pope,469
+67089,Martin,Dúbravka,Dúbravka,470
+81441,Mark,Gillespie,Gillespie,471
+111452,Odysseas,Vlachodimos,Odysseas,472
+487838,Lewis,Hall,Hall,473
+119471,Fabian,Schär,Schär,474
+220237,Sven,Botman,Botman,475
+78916,Dan,Burn,Burn,476
+441191,Tino,Livramento,Livramento,477
+77794,Kieran,Trippier,Trippier,478
+111773,Emil,Krafth,Krafth,479
+101148,Jamaal,Lascelles,Lascelles,480
+545477,Alex,Murphy,A.Murphy,481
+441024,Harrison,Ashby,Ashby,482
+578512,Miodrag,Pivaš,Pivas,483
+169359,Matt,Targett,Targett,484
+232826,Anthony,Gordon,Gordon,485
+449434,Anthony,Elanga,Elanga,486
+201666,Harvey,Barnes,Barnes,487
+208706,Bruno,Guimarães Rodriguez Moura,Bruno G.,488
+114243,Jacob,Murphy,J.Murphy,489
+180974,Joelinton Cássio,Apolinário de Lira,Joelinton,490
+432422,Sandro,Tonali,Tonali,491
+640108,Antoñito,Cordero Campillo,Antoñito C.,492
+180135,Sean,Longstaff,Longstaff,493
+200089,Joe,Willock,Willock,494
+153127,Isaac,Hayden,Hayden,495
+564510,Garang,Kuol,Kuol,496
+547719,Lewis,Miley,L.Miley,497
+461484,Joe,White,White,498
+219168,Alexander,Isak,Isak,499
+538207,William,Osula,Osula,500
+599303,Sean,Neave,Neave,501
+85633,Matz,Sels,Sels,502
+475123,Carlos Miguel,dos Santos Pereira,C.Miguel,503
+224068,Matt,Turner,Turner,504
+227444,Nikola,Milenković,Milenković,505
+575476,Murillo,Costa dos Santos,Murillo,506
+159506,Ola,Aina,Aina,507
+215136,Neco,Williams,N.Williams,508
+451432,David,Mota Veiga Teixeira do Carmo,David Carmo,509
+575458,Jair,Paula da Cunha Filho,Jair Cunha,510
+485047,Felipe,Rodrigues da Silva,Morato,511
+204822,Omar,Richards,O.Richards,512
+549067,Zach,Abbott,Abbott,513
+90585,Willy,Boly,Boly,514
+222531,Morgan,Gibbs-White,Gibbs-White,515
+209046,Callum,Hudson-Odoi,Hudson-Odoi,516
+215379,Elliot,Anderson,Anderson,517
+510500,João Pedro,Ferreira da Silva,Jota,518
+250199,Nicolás,Domínguez,Dominguez,519
+243345,Lewis,O'Brien,O'Brien,520
+210462,Ibrahim,Sangaré,Sangaré,521
+204968,Ryan,Yates,Yates,522
+569014,Eric,da Silva Moreira,Da Silva Moreira,523
+495161,Marko,Stamenić,Stamenic,524
+60689,Chris,Wood,Wood,525
+482973,Igor Jesus,Maciel da Cruz,Igor Jesus,526
+210156,Taiwo,Awoniyi,Awoniyi,527
+232571,Anthony,Patterson,Patterson,528
+74854,Simon,Moore,Moore,529
+490000,Blondy,Nna Noukeu,Nna Noukeu,530
+223827,Daniel,Ballard,Ballard,531
+487676,Trai,Hume,Hume,532
+220684,Aji,Alese,Alese,533
+232820,Joe,Anderson,Anderson,534
+461195,Dennis,Cirkin,Cirkin,535
+477547,Leo Fuhr,Hjelde,Hjelde,536
+492066,Niall,Huggins,Huggins,537
+514613,Zak,Johnson,Johnson,538
+167512,Luke,O'Nien,O'Nien,539
+465702,Timothée,Pembélé,Pembele,540
+434399,Reinildo,Mandava,Reinildo,541
+519634,Jenson,Seelt,Seelt,542
+535818,Simon,Adingra,Adingra,543
+547027,Habib,Diarra,Diarra,544
+124165,Patrick,Roberts,Roberts,545
+626844,Milan,Aleksić,Aleksić,546
+484420,Enzo,Le Fée,E.Le Fée,547
+461199,Romaine,Mundle,Mundle,548
+223336,Dan,Neil,Neil,549
+215460,Ian,Poveda-Ocampo,Poveda,550
+554197,Chris,Rigg,Rigg,551
+577669,Noah,Sadiki,Sadiki,552
+549912,Chemsdine,Talbi,Talbi,553
+477851,Abdoullah,Ba,Ba,554
+171422,Alan,Browne,Browne,555
+458297,Pierre,Ekwah Elimby,Ekwah,556
+547410,Harrison,Jones,H.Jones,557
+493837,Jay,Matete,Matete,558
+500696,Nectarios,Triantis,Triantis,559
+437505,Wilson,Isidor,Isidor,560
+564406,Eliezer,Mayenda Dossou,Mayenda,561
+611975,Ahmed,Abdullahi,Abdullahi,562
+551153,Luís Hemir,Silva Semedo,Luís Hemir,563
+440955,Nazarii,Rusyn,Rusyn,564
+184254,Guglielmo,Vicario,Vicario,565
+214572,Brandon,Austin,Austin,566
+485055,Antonín,Kinský,Kinsky,567
+441164,Pedro,Porro Sauceda,Pedro Porro,568
+221632,Cristian,Romero,Romero,569
+135720,Kevin,Danso,Danso,570
+115556,Ben,Davies,Davies,571
+493125,Radu,Drăgușin,Dragusin,572
+232859,Djed,Spence,Spence,573
+487053,Destiny,Udogie,Udogie,574
+491279,Micky,van de Ven,Van de Ven,575
+548308,Ashley,Phillips,Phillips,576
+553299,Takai,Kōta,Takai,577
+610799,Luka,Vušković,Vuskovic,578
+85971,Son,Heung-min,Son,579
+242898,Brennan,Johnson,Johnson,580
+172780,James,Maddison,Maddison,581
+460842,Mohammed,Kudus,Kudus,582
+445044,Dejan,Kulusevski,Kulusevski,583
+511499,Mathys,Tel,Tel,584
+202993,Rodrigo,Bentancur,Bentancur,585
+570526,Lucas,Bergvall,Bergvall,586
+227127,Yves,Bissouma,Bissouma,587
+550839,Wilson,Odobert,Odobert,588
+235674,Manor,Solomon,Solomon,589
+436234,Bryan,Gil Salvatierra,Bryan,590
+547701,Archie,Gray,Gray,591
+499721,Mikey,Moore,Moore,592
+482442,Pape Matar,Sarr,P.M.Sarr,593
+623095,Yang,Min-hyeok,Min-hyeok,594
+499726,Callum,Olusesi,Olusesi,595
+154566,Dominic,Solanke-Mitchell,Solanke,596
+212319,Richarlison,de Andrade,Richarlison,597
+552427,Will,Lankshear,Lankshear,598
+490145,Dane,Scarlett,Scarlett,599
+84182,Alphonse,Areola,Areola,600
+82143,Wes,Foderingham,Foderingham,601
+483364,Krisztián,Hegyi,Hegyi,602
+613804,El Hadji Malick,Diouf,Diouf,603
+109533,Emerson,Palmieri dos Santos,Emerson,604
+214048,Maximilian,Kilman,Kilman,605
+233963,Konstantinos,Mavropanos,Mavropanos,606
+210494,Nayef,Aguerd,N.Aguerd,607
+536109,Ollie,Scarles,Scarles,608
+462116,Jean-Clair,Todibo,Todibo,609
+214590,Aaron,Wan-Bissaka,Wan-Bissaka,610
+518438,Kaelan,Casey,Casey,611
+224024,Lucas,Tolentino Coelho de Lima,L.Paquetá,612
+215439,Tomáš,Souček,Souček,613
+101178,James,Ward-Prowse,Ward-Prowse,614
+450070,Crysencio,Summerville,Summerville,615
+213999,Edson,Álvarez Velázquez,Álvarez,616
+149519,Maxwel,Cornet,Cornet,617
+197024,Guido,Rodríguez,G.Rodriguez,618
+577114,Luis Guilherme,Lira dos Santos,L.Guilherme,619
+490885,George,Earthy,Earthy,620
+229384,Andy,Irving,Irving,621
+518442,Lewis,Orford,Orford,622
+490142,Freddie,Potts,Potts,623
+178186,Jarrod,Bowen,Bowen,624
+91889,Niclas,Füllkrug,Füllkrug,625
+565431,Callum,Marshall,Marshall,626
+101982,Sam,Johnstone,Johnstone,627
+149065,José,Malheiro de Sá,José Sá,628
+79602,Daniel,Bentley,Bentley,629
+138001,Tom,King,King,630
+516939,Emmanuel,Agbadou,Agbadou,631
+87835,Matt,Doherty,Doherty,632
+490721,Hugo,Bueno López,H.Bueno,633
+501837,Yerson,Mosquera Valdelamar,Mosquera,634
+483081,Rodrigo,Martins Gomes,R.Gomes,635
+231480,Santiago,Ignacio Bueno,S.Bueno,636
+510362,Toti,Gomes,Toti,637
+441271,Ki-Jana,Hoever,Hoever,638
+560248,Bastien,Meupiyou Menadjou,Meupiyou,639
+641221,Pedro,Cardoso de Lima,Pedro Lima,640
+517179,Alfie,Pond,Pond,641
+184754,Hwang,Hee-chan,Hee Chan,642
+509291,André,Trindade da Costa Neto,André,643
+231057,Jean-Ricner,Bellegarde,Bellegarde,644
+643135,Fer,López González,Fer López,645
+448089,João Victor,Gomes da Silva,Gomes,646
+181284,Gonçalo Manuel,Ganchinho Guedes,Guedes,647
+433312,Marshall,Munetsi,Munetsi,648
+476502,Boubacar,Traoré,B.Traore,649
+497606,Tawanda,Chirewa,Chirewa,650
+596054,Tom,Edozie,Edozie,651
+593001,Enso,González Medina,Gonzalez,652
+240299,Joe,Hodge,Hodge,653
+247412,Jørgen,Strand Larsen,Strand Larsen,654
+449988,Fábio,Soares Silva,Fábio Silva,655
+429414,Saša,Kalajdžić,Kalajdžić,656
+589507,Leon,Chiwome,Chiwome,657
+531363,Nathan,Fraser,Fraser,658
