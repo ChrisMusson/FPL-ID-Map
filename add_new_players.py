@@ -1,15 +1,23 @@
 import csv
 import os
 
+import pandas as pd
 import requests
 
 SEASON = "25-26"
 
 
 def append_new_to_existing(filepath, new):
+    if len(new) == 0:
+        return
+
     with open(filepath, "a", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
         writer.writerows(new)
+
+    df = pd.read_csv(filepath).astype("Int64", errors="ignore")
+    df = df.iloc[::-1]
+    df.to_csv(filepath, index=False, encoding="utf-8")
 
 
 with open(os.path.join("FBRef.csv"), "r", encoding="utf-8") as f:
