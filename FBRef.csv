@@ -1459,6 +1459,7 @@ code,first_name,second_name,web_name,fbref
 221272,Sam,Woods,Woods,a62da625
 221275,Luke,Dreher,Dreher,d1c509d9
 221286,Charlie,Rowan,Rowan,d129989d
+221389,John Victor,Maciel Furtado,John,33a235af
 221399,Jack,Harrison,Harrison,aa849a12
 221403,Richie,Laryea,Laryea,276fdbe4
 221466,Marcos,Senesi,Senesi,35141f4c
@@ -1971,6 +1972,7 @@ code,first_name,second_name,web_name,fbref
 470255,Caleb,Taylor,Taylor,4ed3f5c4
 470294,Darko,Gyabi,Gyabi,56d838f7
 470296,Jeremiah,Chilokoa-Mullen,Chilokoa-Mullen,3b57a494
+470313,Nick,Woltemade,Woltemade,7ca196eb
 471471,Imrân,Louza,Louza,e1df6989
 471798,Gabriel,Słonina,Slonina,c55a846e
 471848,Femi,Seriki,Seriki,e4e0deaa
@@ -2055,6 +2057,7 @@ code,first_name,second_name,web_name,fbref
 487837,Divin,Mubama,Mubama,92868cb5
 487838,Lewis,Hall,Hall,da011f18
 487968,Ameen,Al-Dakhil,Al-Dakhil,93e08bce
+488024,Yéremy,Pino Santos,Yeremy,540ec57b
 488404,Facundo,Pellistri Rebollo,Pellistri,ac7e7b1c
 488439,Woyo,Coulibaly,Coulibaly,beb6e3a6
 488464,Caleb,Wiley,Wiley,64796fe0
@@ -2108,6 +2111,7 @@ code,first_name,second_name,web_name,fbref
 493125,Radu,Dragusin,Drăgușin,620922ed
 493250,Amad,Diallo,Amad,9dc96f10
 493347,Denis,Franchi,Franchi,aab362e6
+493362,Xavi,Simons,Xavi,da4d670f
 493736,Jimmy,Morgan,Morgan,f9d409a1
 493837,Jay,Matete,Matete,7748a7c5
 493928,Marcelo,Flores,Flores,937b36b1
@@ -2156,6 +2160,7 @@ code,first_name,second_name,web_name,fbref
 500040,Cristhian,Mosquera,Mosquera,dc1ce4f5
 500052,Luca,Barrington,Barrington,85d7679f
 500058,Jayden,Danns,Danns,003cf4d1
+500151,Nicolò,Savona,Savona,e041497d
 500267,Loïc,Badé,Badé,114bbdee
 500696,Nectarios,Triantis,Triantis,73d58203
 500926,Ronnie,Edwards,Edwards,be90c4b0
@@ -2363,6 +2368,7 @@ code,first_name,second_name,web_name,fbref
 551226,Mateus Gonçalo,Espanha Fernandes,M.Fernandes,ef491564
 551230,Renato,Palma Veiga,Renato Veiga,fc8fcbd1
 551232,Rodrigo,Duarte Ribeiro,Ribeiro,484a3eae
+551483,Álex,Jiménez,A.Jimenez,faa13947
 551995,Taylan,Harris,Harris,96630213
 552030,Aidan,Francis-Clarke,Francis-Clarke,38c29201
 552425,Sydie,Peck,Peck,767d9605
@@ -2383,6 +2389,7 @@ code,first_name,second_name,web_name,fbref
 564406,Eliezer,Mayenda Dossou,Mayenda,6a021e43
 564505,Sam,Proctor,Proctor,b96cec48
 564510,Garang,Kuol,Kuol,a8a80be7
+564940,Soungoutou,Magassa,S.Magassa,dfc5d4fa
 565297,Mateo Joseph,Fernández,Mateo Joseph,6ad43f9a
 565431,Callum,Marshall,Marshall,3a27f1bf
 565858,Killian,Cahill,Cahill,4352b7be
@@ -2506,6 +2513,7 @@ code,first_name,second_name,web_name,fbref
 641221,Pedro,Cardoso de Lima,Pedro Lima,b2f4cad5
 643135,Fer,López González,Fer López,675cacff
 645618,Bradley,Burrowes,Burrowes,802ee5ca
+646243,Andre,Harriman-Annous,Harriman-Annous,2d14071d
 646754,Lander,Emery,Emery,b5f7fd45
 647597,Dominic,Dos Santos Martins,Martins,00464670
 647671,Mateus,Mané,Mané,c15cb409

@@ -1459,6 +1459,7 @@ code,first_name,second_name,web_name,understat
 221272,Sam,Woods,Woods,7534
 221275,Luke,Dreher,Dreher,636
 221286,Charlie,Rowan,Rowan,5585
+221389,John Victor,Maciel Furtado,John,
 221399,Jack,Harrison,Harrison,8720
 221403,Richie,Laryea,Laryea,
 221466,Marcos,Senesi,Senesi,10864
@@ -1971,6 +1972,7 @@ code,first_name,second_name,web_name,understat
 470255,Caleb,Taylor,Taylor,9521
 470294,Darko,Gyabi,Gyabi,10752
 470296,Jeremiah,Chilokoa-Mullen,Chilokoa-Mullen,11391
+470313,Nick,Woltemade,Woltemade,8117
 471471,Imrân,Louza,Louza,7278
 471798,Gabriel,Słonina,Slonina,13854
 471848,Femi,Seriki,Seriki,9540
@@ -2055,6 +2057,7 @@ code,first_name,second_name,web_name,understat
 487837,Divin,Mubama,Mubama,11242
 487838,Lewis,Hall,Hall,10216
 487968,Ameen,Al-Dakhil,Al-Dakhil,11699
+488024,Yéremy,Pino Santos,Yeremy,9024
 488404,Facundo,Pellistri Rebollo,Pellistri,9324
 488439,Woyo,Coulibaly,Coulibaly,12782
 488464,Caleb,Wiley,Wiley,12837
@@ -2108,6 +2111,7 @@ code,first_name,second_name,web_name,understat
 493125,Radu,Dragusin,Drăgușin,9105
 493250,Amad,Diallo,Amad,8127
 493347,Denis,Franchi,Franchi,9475
+493362,Xavi,Simons,Xavi,8700
 493736,Jimmy,Morgan,Morgan,11239
 493837,Jay,Matete,Matete,
 493928,Marcelo,Flores,Flores,10540
@@ -2156,6 +2160,7 @@ code,first_name,second_name,web_name,understat
 500040,Cristhian,Mosquera,Mosquera,10024
 500052,Luca,Barrington,Barrington,12246
 500058,Jayden,Danns,Danns,12455
+500151,Nicolò,Savona,Savona,12905
 500267,Loïc,Badé,Badé,8665
 500696,Nectarios,Triantis,Triantis,
 500926,Ronnie,Edwards,Edwards,13239
@@ -2363,6 +2368,7 @@ code,first_name,second_name,web_name,understat
 551226,Mateus Gonçalo,Espanha Fernandes,M.Fernandes,12948
 551230,Renato,Palma Veiga,Renato Veiga,11383
 551232,Rodrigo,Duarte Ribeiro,Ribeiro,12418
+551483,Álex,Jiménez,A.Jimenez,12168
 551995,Taylan,Harris,Harris,12565
 552030,Aidan,Francis-Clarke,Francis-Clarke,11725
 552425,Sydie,Peck,Peck,12251
@@ -2383,6 +2389,7 @@ code,first_name,second_name,web_name,understat
 564406,Eliezer,Mayenda Dossou,Mayenda,13718
 564505,Sam,Proctor,Proctor,12273
 564510,Garang,Kuol,Kuol,
+564940,Soungoutou,Magassa,S.Magassa,10770
 565297,Mateo Joseph,Fernández,Mateo Joseph,11208
 565431,Callum,Marshall,Marshall,12359
 565858,Killian,Cahill,Cahill,13170
@@ -2506,6 +2513,7 @@ code,first_name,second_name,web_name,understat
 641221,Pedro,Cardoso de Lima,Pedro Lima,13156
 643135,Fer,López González,Fer López,
 645618,Bradley,Burrowes,Burrowes,13870
+646243,Andre,Harriman-Annous,Harriman-Annous,14000
 646754,Lander,Emery,Emery,12632
 647597,Dominic,Dos Santos Martins,Martins,12536
 647671,Mateus,Mané,Mané,13484
