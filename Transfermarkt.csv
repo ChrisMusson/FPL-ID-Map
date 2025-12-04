@@ -2161,6 +2161,7 @@ code,first_name,second_name,web_name,transfermarkt
 499175,Ethan,Nwaneri,Nwaneri,890719
 499300,Adam,Aznou,Aznou,938146
 499309,Marc,Guiu Paz,Marc Guiu,938158
+499716,James,Rowswell,Rowswell,999743
 499717,Jayden,Meghoma,Meghoma,954104
 499721,Mikey,Moore,Moore,1011147
 499724,Samuel,Amo-Ameyaw,Amo-Ameyaw,933900
@@ -2251,6 +2252,7 @@ code,first_name,second_name,web_name,transfermarkt
 516250,Jacob,Wright,Wright,983702
 516432,Valintino,Adedokun,Adedokun,747996
 516874,Charles,Sagoe,Sagoe,796037
+516875,Ronnie,Hollingshead,Hollingshead,667490
 516895,Kobbie,Mainoo,Mainoo,820374
 516939,Emmanuel,Agbadou,Agbadou,683895
 517052,Nicolas,Jackson,N.Jackson,776890
@@ -2428,11 +2430,13 @@ code,first_name,second_name,web_name,transfermarkt
 575476,Murillo,Santiago Costa dos Santos,Murillo,1005649
 575901,Julio,Soler,Soler,1009658
 576323,Oluwaseun,Adewumi,Adewumi,982081
+576628,Shea,Lacey,Lacey,926309
 576637,Godwill,Kukonki,Kukonki,1184841
 576756,Zépiqueno,Redmond,Redmond,765972
 576980,Zach,Marsh,Marsh,1004679
 577016,Josh,Acheampong,Acheampong,1004708
 577114,Luis Guilherme,Lira dos Santos,L.Guilherme,991800
+577285,George,Hemmings,George Hemmings,1023191
 577669,Noah,Sadiki,Sadiki,727089
 577725,Joshua,King,King,1011131
 577731,Ben,Broggio,Broggio,985544
@@ -2454,6 +2458,7 @@ code,first_name,second_name,web_name,transfermarkt
 589507,Leon,Chiwome,Chiwome,1043634
 590012,Caleb,Kporha,Kporha,1047261
 590014,Rio,Cardines,Cardines,1047257
+590035,Yusuf,Akhamrich,Akhamrich,1047345
 590039,Divine,Mukasa,Mukasa,1047280
 590760,Daniel,Adu-Adjei,Adu-Adjei,963878
 591357,Ryan,Trevitt,Trevitt,874538
@@ -2535,6 +2540,7 @@ code,first_name,second_name,web_name,transfermarkt
 640419,Jun'ai,Byfield,Byfield,1196272
 641221,Pedro,Cardoso de Lima,Pedro Lima,1193867
 643135,Fer,López González,Fer López,1064471
+643473,Airidas,Golambeckis,Golambeckis,1108668
 645618,Bradley,Burrowes,Burrowes,1202361
 646243,Andre,Harriman-Annous,Harriman-Annous,1237740
 646754,Lander,Emery,Emery,1237073
@@ -2546,3 +2552,4 @@ code,first_name,second_name,web_name,transfermarkt
 651426,Jaydee,Canvot,Canvot,1006411
 660392,Christantus,Uche,Uche,1124005
 661712,Diego,León Blanco,D.Leon,1283997
+678552,Malcom,DaCosta,DaCosta,1323654
