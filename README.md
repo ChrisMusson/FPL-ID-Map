@@ -1,6 +1,6 @@
 # ID Map
 
-An ID map between Opta (code column in Master.csv), FPL, FBRef, Understat, Transfermarkt, and FotMob. To load the latest CSV, you can do something like
+An ID map between Opta (code column in Master.csv), FPL, FBRef, Understat, and Transfermarkt. To load the latest CSV, you can do something like
 
 ```python
 import pandas as pd
