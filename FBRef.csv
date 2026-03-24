@@ -2137,6 +2137,7 @@ code,first_name,second_name,web_name,fbref
 494541,Kamari,Doyle,Doyle,65983e4d
 494543,Dominic,Ballard,Ballard,ed8d597c
 494551,Jayden,Moore,Moore,ed23d14e
+494556,Ollie,Shield,Shield,16173169
 494595,Florian,Wirtz,Wirtz,e7fcf289
 494779,Albert,Grønbæk,Grønbæk,0da5076f
 494960,Quilindschy,Hartman,Hartman,39e1138f
@@ -2403,6 +2404,7 @@ code,first_name,second_name,web_name,fbref
 552425,Sydie,Peck,Peck,767d9605
 552427,Will,Lankshear,Lankshear,92df535b
 553299,Takai,Kōta,Takai,9f59ff55
+553742,Finlay,Herrick,Herrick,8a764f73
 553746,Leo,Shahar,Shahar,5536f008
 554194,Jahmai,Simpson-Pusey,Simpson-Pusey,383b10fd
 554197,Chris,Rigg,Rigg,35741fe2
@@ -2437,6 +2439,8 @@ code,first_name,second_name,web_name,fbref
 569577,Triston,Rowe,Rowe,3fcc22d5
 570241,Ji-Soo,Kim,Kim Ji-Soo,f4065d9e
 570526,Lucas,Bergvall,Bergvall,a109e5c8
+570929,Jack,Whittaker,Whittaker,33ea39be
+571087,Jaydon,Jones,Jones,3ad7599b
 572702,Keiber,Lamadrid,Lamadrid,5903eca2
 573062,Martial,Godo,Godo,e0eea46f
 573808,Jack,Grieves,Grieves,2cf03378
@@ -2472,6 +2476,7 @@ code,first_name,second_name,web_name,fbref
 586268,Ármin,Pécsi,Pécsi,46206cf7
 586309,Thierno,Barry,Barry,52c3244b
 587178,Yasin,Özcan,Yasin,3c841afd
+587433,Conor,McManus,McManus,d80e9e0e
 588555,Elyh,Harrison,Harrison,6175ebf8
 588793,Maldini,Kacurri,Kacurri,7be4311f
 588796,Ismeal,Kabia,Kabia,6b15cf32
@@ -2540,6 +2545,7 @@ code,first_name,second_name,web_name,fbref
 612534,Benjamin,Fredrick,Fredrick,fde367e5
 612855,Ibrahim,Osman,I.Osman,acdfe835
 613120,Spike,Brits,Brits,d5837248
+613232,James,Wilson,Wilson,e9cd8e92
 613467,Wesley,Okoduwa,Okoduwa,58469e7c
 613804,El Hadji Malick,Diouf,Diouf,bd5eb2e5
 614574,Alex,Tóth,Tóth.A,5e18c6f4
@@ -2578,6 +2584,7 @@ code,first_name,second_name,web_name,fbref
 643135,Fer,López González,Fer López,675cacff
 643426,Dean,Benamar,Benamar,b047bb3b
 643473,Airidas,Golambeckis,Golambeckis,59149473
+644593,Kian,McMahon-Brown,McMahon-Brown,643dadae
 645618,Bradley,Burrowes,Burrowes,802ee5ca
 646243,Andre,Harriman-Annous,Harriman-Annous,2d14071d
 646754,Lander,Emery,Emery,b5f7fd45
@@ -2587,6 +2594,7 @@ code,first_name,second_name,web_name,fbref
 647850,Charalampos,Kostoulas,Kostoulas,816010c4
 647960,Oliver,Pimlott,Pimlott,b928f19e
 649208,Jeremy,Monga,Monga,4c168d3a
+649240,Joshua,Stephenson,Stephenson,c9c4c85d
 651426,Jaydee,Canvot,Canvot,3684108d
 653481,Alysson Edward Franco,da Rocha dos Santos,Alysson,99b63a82
 658013,Charlie,Stevens,Stevens,6c2a4c10
@@ -2597,5 +2605,5 @@ code,first_name,second_name,web_name,fbref
 672492,Joél,Drakes-Thomas,Drakes-Thomas,1bd530e8
 678552,Malcom,DaCosta,DaCosta,c96b1407
 685628,Jerome,Abbey,Abbey,4f504fcc
-699989,Djiamgone Jocelin Ta,Bi,Jocelin.T,
+699989,Djiamgone Jocelin Ta,Bi,Jocelin.T,1f019509
 704232,George,Brierley,Brierley,a57a4ea8
