@@ -4,7 +4,7 @@ import pandas as pd
 
 seasons = [f"{season}-{season + 1}" for season in range(16, 26)]
 fpl_files = [os.path.join("FPL", f"{season}.csv") for season in seasons[::-1]]
-files = fpl_files + ["FBRef.csv", "Understat.csv", "Transfermarkt.csv", "whoscored.csv"]
+files = fpl_files + ["FBRef.csv", "Understat.csv", "Transfermarkt.csv", "Whoscored.csv"]
 
 master = pd.read_csv(files[0], index_col="code")
 for file in files[1:]:
