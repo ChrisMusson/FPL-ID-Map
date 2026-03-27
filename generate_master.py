@@ -4,7 +4,7 @@ import pandas as pd
 
 seasons = [f"{season}-{season + 1}" for season in range(16, 26)]
 fpl_files = [os.path.join("FPL", f"{season}.csv") for season in seasons[::-1]]
-datasource_files = ["FBRef.csv", "Understat.csv", "Transfermarkt.csv", "Whoscored.csv"]
+datasource_files = ["FBRef.csv", "Understat.csv", "Transfermarkt.csv", "WhoScored.csv"]
 files = fpl_files + datasource_files
 name_columns = ["first_name", "second_name", "web_name"]
 
