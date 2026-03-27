@@ -25,4 +25,9 @@ master.to_csv("Master.csv", encoding="utf-8-sig")
 for file in datasource_files:
     df = pd.read_csv(file).set_index("code")
     df.update(master_names)
+    id_column = os.path.splitext(file)[0].lower()
+    if id_column == "fbref":
+        df[id_column] = df[id_column].astype("string")
+    else:
+        df[id_column] = df[id_column].astype("Int64")
     df.to_csv(file, encoding="utf-8-sig")
