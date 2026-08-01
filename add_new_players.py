@@ -4,7 +4,7 @@ import os
 import pandas as pd
 import requests
 
-SEASON = "25-26"
+SEASON = "26-27"
 
 
 def append_new_to_existing(filepath, new):
@@ -22,7 +22,7 @@ def append_new_to_existing(filepath, new):
 
 with open(os.path.join("FBRef.csv"), "r", encoding="utf-8") as f:
     data = [row for row in csv.reader(f)][1:]
-    old_codes = set([int(row[0]) for row in data])
+    old_codes = {int(row[0]) for row in data}
 
 with requests.Session() as s:
     url = "https://fantasy.premierleague.com/api/bootstrap-static/"

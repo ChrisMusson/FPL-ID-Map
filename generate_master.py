@@ -2,7 +2,7 @@ import os
 
 import pandas as pd
 
-seasons = [f"{season}-{season + 1}" for season in range(16, 26)]
+seasons = [f"{season}-{season + 1}" for season in range(16, 27)]
 fpl_files = [os.path.join("FPL", f"{season}.csv") for season in seasons[::-1]]
 datasource_files = ["FBRef.csv", "Understat.csv", "Transfermarkt.csv", "WhoScored.csv"]
 files = fpl_files + datasource_files
@@ -15,7 +15,9 @@ for file in files[1:]:
 
 master = master.sort_index()
 master_names = master[name_columns]
-col_order = name_columns + seasons + ["fbref", "understat", "transfermarkt", "whoscored"]
+col_order = (
+    name_columns + seasons + ["fbref", "understat", "transfermarkt", "whoscored"]
+)
 
 master = master[col_order]
 for col in seasons + ["understat", "transfermarkt", "whoscored"]:
