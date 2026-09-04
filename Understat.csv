@@ -540,7 +540,7 @@
 78911,Kadeem,Harris,Harris,7120
 78916,Dan,Burn,Burn,7382
 79228,Pape,Souaré,Souaré,513
-79602,Daniel,Bentley,Bentley,11361
+79602,Dan,Bentley,Bentley,11361
 79619,Jonathan,Hogg,Hogg,6301
 79733,Scott,Malone,Malone,6040
 79852,Jed,Steer,Steer,4475
@@ -959,6 +959,7 @@
 155197,Max,Lowe,Lowe,8918
 155405,Kalvin,Phillips,Phillips,8719
 155408,Lewis,Cook,Cook,1789
+155465,Michael,Zetterer,Zetterer,126
 155503,Freddie,Woodman,Woodman,852
 155509,Greg,Olley,Olley,1773
 155511,Adam,Armstrong,Armstrong,4419
@@ -1638,7 +1639,7 @@
 241157,Emerson,Leite de Souza Junior,E.Royal,7430
 241231,Jordan,Beyer,Jordan,6557
 241289,Ben,Wilmot,Wilmot,7216
-241293,Ephron,Mason-Clark,Mason-Clark,
+241293,Ephron,Mason-Clark,Mason-Clark,14981
 241519,Weston,McKennie,McKennie,5360
 241791,Ryan,Schofield,Schofield,7111
 242058,Moise,Kean,Kean,1304
@@ -1666,6 +1667,7 @@
 243569,Adedapo,Awokoya-Mebude,Mebude,
 243571,Nathan,Patterson,Patterson,10292
 243710,Bernardo,Costa Da Rosa,Rosa,8236
+243951,Sorba,Thomas,Thomas,12843
 244042,Rodrigo,Muniz Carvalho,Muniz,10717
 244085,Siriki,Dembélé,Siriki,10749
 244262,Alfie,Doughty,Doughty,11723
@@ -1790,6 +1792,7 @@
 437468,Sergio,Gómez,Sergio Gómez,6656
 437476,Braian,Ojeda Rodríguez,Ojeda,
 437495,Illan,Meslier,Meslier,8715
+437497,Melvin,Bard,Bard,8190
 437499,Maxence,Lacroix,Lacroix,8853
 437505,Wilson,Isidor,Isidor,7148
 437626,Nuno,Varela Tavares,Tavares,9691
@@ -1836,6 +1839,7 @@
 441428,Jarell,Quansah,Quansah,10187
 441455,Victor,da Silva,Vitinho,11700
 442229,Michał,Karbownik,Karbownik,9320
+442299,David,Affengruber,Affengruber,13837
 442335,Edo,Kayembe,Kayembe,10290
 442967,Daizen,Maeda,Maeda,14772
 443211,Rhys,Norrington-Davies,Norrington-Davies,12291
@@ -1857,7 +1861,7 @@
 444765,Sepp,van den Berg,Van den Berg,10721
 444880,Mika,Biereth,Biereth,10349
 444884,Harvey,Elliott,Elliott,7546
-445028,Hidemasa,Morita,Morita,
+445028,Hidemasa,Morita,Morita,14982
 445044,Dejan,Kulusevski,Kulusevski,6691
 445087,Ronald,Araujo,Araujo,8091
 445122,Jurriën,Timber,J.Timber,11707
@@ -1899,6 +1903,7 @@
 449926,Adrián,Bernabé,Bernabé,8867
 449974,Lukas,Jensen,Jensen,8484
 449988,Fábio,Soares Silva,Fábio Silva,8778
+450063,Quinten,Timber,Timber,14376
 450070,Crysencio,Summerville,Summerville,9492
 450072,Shurandy,Sambo,Sambo,
 450197,George,Shelvey,G.Shelvey,11462
@@ -2029,6 +2034,7 @@
 470315,Luca,Netz,Netz,8401
 470551,Lukás,Hornícek,Horníček,14874
 471471,Imrân,Louza,Louza,7278
+471551,Femi,Azeez,Azeez,
 471798,Gabriel,Słonina,Slonina,13854
 471848,Femi,Seriki,Seriki,9540
 472464,Shola,Shoretire,Shoretire,9359
@@ -2085,6 +2091,7 @@
 482158,Lucas,Bergström,Bergström,11809
 482442,Pape Matar,Sarr,P.M.Sarr,9021
 482609,Malo,Gusto,Gusto,9017
+482616,Bradley,Barcola,Barcola,10016
 482769,Máximo,Perrone,Perrone,11378
 482973,Igor Jesus,Maciel da Cruz,Igor Jesus,13778
 483067,António João,Pereira de Albuquerque Tavares da Silva,Silva,14859
@@ -2199,6 +2206,7 @@
 495542,Niels,Nkounkou,Nkounkou,8109
 496178,Roman,Dixon,Dixon,12946
 496179,Alfie,Devine,Devine,9306
+496181,Brooke,Norton-Cuffy,Norton-Cuffy,13136
 496185,Kaide,Gordon,Gordon,10118
 496208,Ben,Gannon-Doak,Gannon-Doak,11231
 496221,Adam,Wharton,Wharton,12409
@@ -2228,6 +2236,7 @@
 499726,Callum,Olusesi,Olusesi,13224
 499857,Teddy,Sharman-Lowe,Sharman-Lowe,12561
 500016,Welington Damascena,Santos,Welington,13403
+500033,Manuel Ángel,Morán Ibáñez,Ángel,14502
 500040,Cristhian,Mosquera,Mosquera,10024
 500052,Luca,Barrington,Barrington,12246
 500058,Jayden,Danns,Danns,12455
@@ -2385,6 +2394,7 @@
 532535,Thomas,Wilson-Brown,Wilson-Brown,13304
 532605,Andrey,Nascimento dos Santos,Andrey Santos,11808
 533463,Dango,Ouattara,O.Dango,9662
+533646,Darío,Osorio,Osorio,
 533710,Iwan,Morgan,Morgan,13472
 533719,Adrian,Blake,Blake,10592
 534392,Mason,Burstow,Burstow,11810
@@ -2402,7 +2412,7 @@
 536134,Rio,Kyerematen,Kyerematen,14409
 536238,Ishé,Samuels-Smith,Samuels-Smith,11508
 536241,Martin,Sherif,Sherif,13345
-536661,Nilson,Angulo,Angulo,14424
+536661,Nilson,Angulo,N.Angulo,14424
 536677,Detlef Esapa,Osong,Osong,12351
 536681,Joe,Gardner,Gardner,12350
 536694,Matheus,França de Oliveira,M.França,12152
@@ -2454,6 +2464,7 @@
 549653,Norman,Bassette,Bassette,
 549912,Chemsdine,Talbi,Talbi,13717
 549939,Mike,Penders,Penders,13816
+549940,Malick,Fofana,Fofana,12336
 550090,Diego,Coppola,Coppola,10169
 550141,Adrian,Mazilu,Mazilu,
 550596,Dominic,Sadi,Sadi,11300
@@ -2461,6 +2472,7 @@
 550833,Noha,Lemina,N.Lemina,12499
 550839,Wilson,Odobert,Odobert,10822
 550864,Leny,Yoro,Yoro,10564
+551050,Hugo,Larsson,Larsson,11911
 551153,Luís Hemir,Silva Semedo,Luís Hemir,
 551206,Jaydon,Banel,Banel,14281
 551210,Jorrel,Hato,Hato,13776
@@ -2481,6 +2493,7 @@
 553742,Finlay,Herrick,Herrick,14550
 553746,Leo,Shahar,Shahar,13572
 553783,Óscar,Zambrano,Zambrano,
+554054,Kaden,Braithwaite,Braithwaite,14935
 554194,Jahmai,Simpson-Pusey,Simpson-Pusey,13185
 554197,Chris,Rigg,Rigg,13719
 554578,Ewen,Jaouen,Jaouen,14876
@@ -2488,7 +2501,7 @@
 556637,Nehemiah,Oriola,Oriola,14127
 556639,Jayce,Fitzgerald,Fitzgerald,13196
 557012,Sindre,Walle Egeli,Walle Egeli,14773
-559152,Zavier,Gozo,Gozo,
+559152,Zavier,Gozo,Gozo,14934
 559610,Luka,Bentt,Bentt,14405
 559684,Jack,Moorhouse,Moorhouse,13468
 559962,Jamaldeen,Jimoh-Aloba,Jimoh-Aloba,13310
@@ -2565,6 +2578,7 @@
 586309,Thierno,Barry,Barry,12916
 587178,Yasin,Özcan,Yasin,
 587433,Conor,McManus,McManus,14547
+587982,Jean-Mattéo,Bahoya,Bahoya,
 588555,Elyh,Harrison,Harrison,13410
 588793,Maldini,Kacurri,Kacurri,13081
 588796,Ismeal,Kabia,Kabia,13082
@@ -2592,6 +2606,7 @@
 592712,Tom,Taylor,Tom Taylor,13603
 592736,Maeson,King,King,13287
 592740,Alfie,Cresswell,Cresswell,14625
+592984,José María,Andrés Baixauli,Andrés,13078
 593001,Enso,González Medina,Gonzalez,12047
 593117,Geovany,Quenda,Quenda,14923
 593174,Kaye,Furo,Furo,14356
@@ -2613,6 +2628,7 @@
 604211,Tymur,Tutierov,Tutierov,14277
 604988,Freddie,Simmonds,Simmonds,13583
 605319,Luke,Rawlings,Rawlings,14256
+605972,Honest,Ahanor,Ahanor,12779
 606689,Romelle,Donovan,Donovan,14217
 606702,Jeremy,Jacquet,Jacquet,11545
 606745,Ayden,Heaven,Heaven,13080
@@ -2641,6 +2657,7 @@
 612534,Benjamin,Fredrick,Fredrick,12397
 612855,Ibrahim,Osman,Osman,13792
 613120,Spike,Brits,Brits,13299
+613221,Matias,Fernandez-Pardo,Fernandez-Pardo,13051
 613232,James,Wilson,Wilson,14462
 613467,Wes,Okoduwa,Okoduwa,12500
 613804,El Hadji Malick,Diouf,Diouf,13723
@@ -2648,6 +2665,7 @@
 614574,Alex,Tóth,Tóth.A,14374
 616059,Jack,Porter,Porter,13378
 616065,Marli,Salmon,Salmon,14220
+616069,Macauley,Zepa,Zepa,14999
 616077,Max,Dowman,Dowman,13872
 616094,Dovydas,Sasnauskas,Sasnauskas,12466
 616221,João Victor,de Souza Menezes,Souza,14410
@@ -2668,7 +2686,9 @@
 623095,Yang,Min-hyeok,Min-hyeok,13362
 623110,Seung-Soo,Park,Seung soo,13710
 624773,Estêvão,Almeida de Oliveira Gonçalves,Estêvão,13775
+624777,Allan,Andrade Elias,Allan,
 626464,Gustavo,Nunes Fernandes Gomes,Nunes,13588
+626751,Ilyas,Ansah,Ansah,13866
 626844,Milan,Aleksić,Aleksić,14478
 627221,Sidiki,Cherif,Cherif,12847
 627888,Josh,Gracey,Gracey,14595
@@ -2677,6 +2697,7 @@
 629397,Kai,Andrews,Andrews,
 630664,Jake,Evans,Jake Evans,13585
 630699,Mohamadou,Kanté,Mohamadou Kanté,14219
+631000,Robinio,Vaz,Vaz,13330
 631106,Ben,Casey,Casey,14285
 631786,Jonah,Kusi-Asare,Kusi-Asare,13262
 632794,Aladji,Bamba,Bamba,13214
@@ -2685,6 +2706,7 @@
 636852,Sean,Steur,Steur,14875
 637238,Ayyoub,Bouaddi,Bouaddi,12162
 638411,Dayann,Méthalie,Methalie,12841
+638987,Ibrahim,Mbaye,Mbaye,12733
 640108,Antoñito,Cordero Campillo,Antoñito C.,
 640419,Jun'ai,Byfield,Byfield,14134
 641221,Pedro,Cardoso de Lima,Pedro Lima,13156
@@ -2699,6 +2721,7 @@
 647597,Dominic,Dos Santos Martins,Martins,12536
 647671,Mateus,Mané,Mané,13484
 647681,Giovanni,Leoni,Leoni,13031
+647839,Christos,Mouzakitis,Mouzakitis,
 647850,Charalampos,Kostoulas,Kostoulas,14118
 647960,Oliver,Pimlott,Pimlott,14282
 649208,Jeremy,Monga,Monga,13579
@@ -2707,6 +2730,7 @@
 653481,Alysson Edward Franco,da Rocha dos Santos,Alysson,14446
 658013,Charlie,Stevens,Stevens,14367
 660392,Christantus,Uche,Uche,12726
+661313,Juan,Angulo,J.Angulo,
 661712,Diego,León Blanco,D.Leon,14057
 661800,Cathal,McCarthy,McCarthy,
 661888,Caleb,Yirenkyi,Yirenkyi,14744
@@ -2720,7 +2744,7 @@
 685628,Jerome,Abbey,Abbey,14394
 687076,Lamin,Sillah,Sillah,14636
 690838,Brian,Madjo,Madjo,13810
-696104,Jules,Ahoka,Ahoka,
+696104,Jules,Ahoka,Ahoka,14998
 699989,Djiamgone Jocelin Ta,Bi,Jocelin.T,14460
 700308,Zadok,Yohanna,Yohanna,14855
 704232,George,Brierley,Brierley,14292
